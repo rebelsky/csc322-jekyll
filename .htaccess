@@ -1,0 +1,14 @@
+<IfModule mod_headers.c>
+  # 4 hour expiration for HTML files
+  <FilesMatch "\.(html|htm)$">
+  Header set Cache-Control "max-age=14400"
+  </FilesMatch>
+
+  # 3 days for media files
+  <FilesMatch "\.(ico|pdf|jpg|jpeg|png|gif|js|css)$">
+  Header set Cache-Control "max-age=259200, public"
+  </FilesMatch>
+</IfModule>
+
+# Based on .htaccess file from:
+# https://www.garron.me/en/bits/apache-htaccess-add-cache-control-header-file-type.html

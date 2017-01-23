@@ -1,0 +1,102 @@
+# Site settings
+title: GENERIC COURSE
+courseid: CSC 000.01
+baseurl: /~rebelsky/Courses/CSC000/2017S
+url: http://www.cs.grinnell.edu/~rebelsky/Courses/CSC000/2017S
+
+# Collections of things
+collections:
+  assignments:
+    output: true
+    permalink: /assignments/:path.html
+  bodies:
+    output: false
+  current:
+    output: true;
+    permalink: /current/:path.html
+  eboards:
+    output: true
+    permalink: /eboards/:path.html
+  exams:
+    output: true
+    permalink: /exams/:path.html
+  handouts:
+    output: true
+    permalink: /handouts/:path.html
+  indices:
+    output: true
+    permalink: /indices/:path.html
+  labs:
+    output: true
+    permalink: /labs/:path.html
+  outlines:
+    output: true
+    permalink: /outlines/:path.html
+  problems:
+    output: false
+  prelim:
+    output: false
+  quizzes:
+    output: false
+  readings:
+    output: true
+    permalink: /readings/:path.html
+  reference:
+    output: true
+    permalink: /reference/:path.html
+  related:
+    output: false
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: assignments
+    values:
+      link: true
+  - scope:
+      path: ""
+      type: eboards
+    values:
+      link: true
+  - scope:
+      path: ""
+      type: exams
+    values:
+      link: true
+  - scope:
+      path: ""
+      type: labs
+    values:
+      link: true
+  - scope:
+      path: ""
+      type: readings
+    values:
+      link: true
+  - scope:
+      path: ""
+      type: reference
+    values:
+      link: true
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+livereload: true

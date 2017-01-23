@@ -24,6 +24,10 @@ admin/*
 !admin/sendgrades
 !admin/sendreport
 
+# Created directories
+images/
+css/
+
 # +--------------+---------------------------------------------------
 # | From Charlie |
 # +--------------+
