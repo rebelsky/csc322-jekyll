@@ -30,7 +30,7 @@ admin/*
 
 # Some mods by SamR
 
-dev/_site/
+_site/
 .sass-cache/
 Gemfile.lock
 *.DS_Store
