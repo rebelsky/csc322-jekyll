@@ -1,0 +1,55 @@
+# +--------------+---------------------------------------------------
+# | Common Rules |
+# +--------------+
+
+# Ignore the various forms of generated files
+*.html
+*.ps
+*.pdf
+
+# Ignore files created by random editors
+*~
+*.swp
+
+# Ignore some standard temporary files
+*.o
+*.class
+
+# Ignore everything in the sandbox
+sandbox/*
+
+# Almost everything in the admin directory should be ignored
+admin/*
+!admin/report
+!admin/sendgrades
+!admin/sendreport
+
+# +--------------+---------------------------------------------------
+# | From Charlie |
+# +--------------+
+
+# Some mods by SamR
+
+dev/_site/
+.sass-cache/
+Gemfile.lock
+*.DS_Store
+*.texpadtmp
+*.aux
+*.fls
+*.fdb_latexmk
+*.log
+*.synctex.gz
+*.sublime-project
+*.sublime-workspace
+
+# +------------------------+-----------------------------------------
+# | Rules for Generic Site |
+# +------------------------+
+
+# Ignore the forks that I keep handy
+forks/*
+
+# +---------------------+--------------------------------------------
+# | Fork-Specific Rules |
+# +---------------------+
