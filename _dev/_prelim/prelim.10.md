@@ -1,5 +1,5 @@
 ---
-title: Preliminaries for class 1
+title: Preliminaries for class 10
 section: prelim
 ---
 ### News / Etc.

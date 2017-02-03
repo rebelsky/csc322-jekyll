@@ -4,6 +4,6 @@ section: prelim
 ---
 ### News / Etc.
 
-### Upcoming Work
+### Upcoming work
 
 ### Good things to do

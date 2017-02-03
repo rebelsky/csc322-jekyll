@@ -8,32 +8,67 @@ Syllabus
 Welcome to {{ site.courseid }}! The official course description for this
 class is:
 
-> Description
+> Application of software development principles and practices to
+a large-scale project. Teams of 3-6 students build software for a
+community organization, supported by a faculty adviser and an alumni
+technical mentor. Students will gain experience working with a client and
+building a substantial code base suitable for inclusion in a professional
+portfolio. Students are encouraged to repeat the course for credit
+to experience multiple roles within a team and multiple phases of the
+software lifecycle.
 
-In other words, 
+That is, this course serves as the *practicum* for our software design
+curriculum.
 
-Learning Goals
---------------
+Course Goals and Structure
+--------------------------
 
-Our major objectives for this course include:
+In this course, you will apply agile software development principles and
+practices to a large-scale, ongoing, team project. To motivate and provide
+context for the work, projects will serve a community organization. To
+provide technical expertise and professional perspective, alumni mentors
+will draw upon their practical software development experience.
 
-  - Something
-  - Something else
+You will gain experience with the complexities of real-world software
+development: communicating with clients; working as part of a team;
+self-directed technical learning; creating a substantial project from
+scratch, or learning an existing code base; making design decisions
+that may have long-term consequences; managing a large code base;
+addressing pragmatic and ethical dilemmas. You will be able to draw
+upon these experiences in pursuing academic or industry positions. By
+sharing your source code through GitHub, you will make a substantial
+beginning or addition to your professional portfolio. You will develop
+professional skills and perspectives.
 
-Important Notices
------------------
-
- - Computers have no common sense or compassion. They are complex, and sometimes they do things we don't expect. When things go wrong, don't blame yourself. Ask your instructor, your mentor, or a tutor for help.
- - I am moving to a new site development system this semester.  Expect things to be wonky for awhile.
- - As always, I am overcommitted.  I apologize in advance.
+This course is a companion to CSC 321, Software Development Principles
+and Practices. In CSC 321, you will learn how to apply agile software
+methodology to developing software as a service (SaaS) using the Ruby on
+Rails framework. In this course, you will apply what you learned to a
+large-scale, real-world project. If you take CSC 322 concurrently with
+CSC 321, you will find that topics are introduced in CSC 321 just in
+time to apply them in CSC 322.
 
 Accommodations and adjustments
 ------------------------------
 
 Please read [my policy on accommodations and adjustments]({{ site.baseurl }}/handouts/accommodations) and [my statement on accessiblity]({{ site.baseurl }}/handouts/accessibility).
 
-Textbooks / references
-----------------------
+Important Warnings
+------------------
+
+*Warning!*  This course exercises some different skills than other
+CS courses.  You will need to work with other people on your team
+as well as clients from outside Grinnell.  You will have to manage
+your own time and arrangements.  
+
+*Warning!*  Students report that the workload in CSC 322 can easily 
+become more than is appropriate for a 2-credit course, particularly
+since they find value in the work they are doing.  I will do my best
+to give you credit for time spent on work (provided it is well documented)
+rather than just particular outcomes.
+
+*Warning!* Both the course and the platform are new to me.  Expect me
+to be even less organized than normal.
 
 Grading
 -------
@@ -48,25 +83,19 @@ weighting of individual activities will provide a basis for evaluation.
   <dd>Penalty only</dd>
   
   <dt>Participation</dt>
-  <dd>5%</dd>
+  <dd>20%</dd>
   
-  <dt>Labs</dt>
-  <dd>10%</dd>
-  
-  <dt>Assignments</dt>
-  <dd>15%</dd>
+  <dt>Presentation</dt>
+  <dd>20%</dd>
   
   <dt>Project</dt>
-  <dd>10%</dd>
+  <dd>20%</dd>
   
-  <dt>Quizzes</dt>
-  <dd>10%</dd>
+  <dt>Portfolio</dt>
+  <dd>20%</dd>
   
-  <dt>Exams</dt>
-  <dd>40%</dd>
-  
-  <dt>Best</dt>
-  <dd>10% <i>(best of homework, quizzes, or exams)</i></dd>
+  <dt>Paper</dt>
+  <dd>20%</dd>
 </dl>
 
 Some work may be graded by someone other than the instructor. However, any questions or concerns about grading should only be directed to the instructor.
@@ -118,4 +147,13 @@ Academic Honesty
 ----------------
 
 Please read [my policies on academic honesty]({{ site.baseurl }}/handouts/academic-honesty) and [the CS department's academic honesty policy](http://www.cs.grinnell.edu/academic-honesty-policy).  I expect you to sign and return the latter.
+
+Citations
+---------
+
+Much of this course and the corresponding syllabus were developed using
+Janet Davis's resources.  I think her for her careful development of the
+course and her willingness to allow me to reuse her resources.
+
+Much of the site design comes from Charlie Curtsinger.
 

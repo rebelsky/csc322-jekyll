@@ -1,44 +1,29 @@
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Getting started
+  abbrev: getting-started
+  summary: We explore the basics of the course.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Approaching projects
+  abbrev: approaching-projects
+  summary: We consider how teams might approach a sample project.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
+- topic: Project descriptions
+  abbrev: project-descriptions
+  summary: We examine the primary projects for the semester
   subjects:
-    - Stuff
-    - More stuff
+    - Project options
+    - Getting up and running on Rails
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Prepare for partner meetings
+  abbrev: partner-prep
+  summary: We get ready to meet with our community partners.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Partner meetings
+  abbrev: partner-meetings
+  summary: We meet with partners.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Debrief from partner meetings
+  abbrev: partner-debrief
+  summary: We reflect upon what we learned in meeting with partners.
 
 - topic: To be determined
   abbrev: tbd
