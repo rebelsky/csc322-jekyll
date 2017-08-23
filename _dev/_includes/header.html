@@ -13,65 +13,55 @@
       </div>
     </div> <!-- /.navbar-header -->
     <div id="navbar" class="collapse navbar-collapse">
-      <ul class="nav navbar-nav">
+      <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Primary<span class="caret"></span></a>
+          <a href="../links/primary" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Primary<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="{{ site.baseurl | append: '/' }}">Front Door</a></li>
-            <li><a href="{{ site.baseurl | append: '/schedule' }}">Schedule</a></li>
-            <li><a href="{{ site.baseurl | append: '/news' }}">News</a></li>
-            <li><a href="{{ site.baseurl | append: '/syllabus' }}">Syllabus</a></li>
+            {% include links-primary-01.html %}
             <li role="separator" class="divider"></li>
-            <li><a href="https://rebelsky.youcanbook.me">Book an appointment</a></li>
-
-            <li role="separator" class="divider"></li>
-            <li><a href="{{ site.baseurl | append: '/handouts/academic-honesty' }}">Academic Honesty</a></li>
-            <li><a href="{{ site.baseurl | append: '/handouts/accessibility' }}">Accessibility</a></li>
-            <li><a href="{{ site.baseurl | append: '/handouts/accommodations' }}">Accommodations and Adjustments</a></li>
-            <li><a href="{{ site.baseurl | append: '/handouts/email' }}">Email</a></li>
-            <li><a href="{{ site.baseurl | append: '/handouts/faq' }}">FAQ</a></li>
-            <li><a href="{{ site.baseurl | append: '/handouts/teaching' }}">Teaching and Learning</a></li>
+            {% include links-primary-02.html %}
+            <li role="s class="divider"></li>
+            {% include links-primary-03.html %}
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Current<span class="caret"></span></a>
+          <a href="../links/current" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Current<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="{{ site.baseurl | append: '/assignments/current' }}">Current Assignment</a></li>
-            <li><a href="{{ site.baseurl | append: '/eboards/current' }}">Current EBoard</a></li>
-            <li><a href="{{ site.baseurl | append: '/exams/current' }}">Current Exam</a></li>
-            <li><a href="{{ site.baseurl | append: '/labs/current' }}">Current Lab</a></li>
-            <li><a href="{{ site.baseurl | append: '/outlines/current' }}">Current Outline</a></li>
-            <li><a href="{{ site.baseurl | append: '/readings/current' }}">Current Reading</a></li>
+            {% include links-current.html %}
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sections<span class="caret"></span></a>
+          <a href="../links/sections" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sections<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="{{ site.baseurl | append: '/assignments/' }}">Assignments</a></li>
-            <li><a href="{{ site.baseurl | append: '/eboards/' }}">EBoards</a></li>
-            <li><a href="{{ site.baseurl | append: '/exams/' }}">Exams</a></li>
-            <li><a href="{{ site.baseurl | append: '/labs/' }}">Labs</a></li>
-            <li><a href="{{ site.baseurl | append: '/outlines/' }}">Outlines</a></li>
-            <li><a href="{{ site.baseurl | append: '/readings/' }}">Readings</a></li>
+            {% include links-sections.html %}
           </ul>
         </li>
         <li class="dropdown">
           <a href="{{ site.baseurl | append: '/handouts/reference/' }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Reference<span class="caret"></span></a>
           <ul class="dropdown-menu">
+            <li><a href="{{ site.baseurl | append: '/reference/' }}">Functions A-Z</a></li>
+            <li><a href="{{ site.baseurl | append: '/reference/' }}">Functions by Topic</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="{{ site.baseurl | append: '/handouts/remote' }}">Remote</a></li>
+            <li><a href="{{ site.baseurl | append: '/handouts/virtual-machine' }}">VM</a></li>
+            <li><a href="{{ site.baseurl | append: '/handouts/error-messages' }}">Error Messages</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="http://docs.racket-lang.org/">Racket</a></li>
+            <li><a href="http://www.schemers.org/Documents/Standards/R5RS/HTML/">Scheme Report (R5RS)</a></li>
+            <li><a href="http://www.r6rs.org/">R6RS</a></li>
+            <li><a href="http://www.scheme.com/tspl4/">TSPL4</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Related Courses<span class="caret"></span></a>
+          <a href="../links/related" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Related Courses<span class="caret"></span></a>
           <ul class="dropdown-menu">
+            {% include links-related.html %}
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Misc<span class="caret"></span></a>
+          <a href="../links/misc" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Misc<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="http://www.cs.grinnell.edu/~rebelsky/">SamR</a></li>
-            <li><a href="http://www.cs.grinnell.edu/~rebelsky/glimmer/">Glimmer Labs</a></li>
-            <li><a href="http://www.cs.grinnell.edu">Grinnell CS</a></li>
-            <li><a href="http://www.grinnell.edu">Grinnell</a></li>
+            {% include links-misc.html %}
           </ul>
         </li>
       </ul>
