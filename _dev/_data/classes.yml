@@ -1,6 +1,12 @@
 - topic: Getting started
   abbrev: getting-started
   summary: We explore the basics of the course.
+  subjects: 
+    - Quick course overview
+    - Introductions
+    - Quick project overviews
+    - More course issues
+    - Questions
 
 - topic: Prepare for partner meetings
   abbrev: partner-prep
