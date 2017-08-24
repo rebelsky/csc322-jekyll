@@ -1,6 +1,6 @@
 ---
 title: Outline 4
 number: 4
-link: false
+link: true
 ---
 {% include outline.md %}

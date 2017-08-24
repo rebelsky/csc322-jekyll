@@ -23,453 +23,161 @@
 
 - topic: Debrief from partner meetings
   abbrev: partner-debrief
+  subjects:
+    - Debriefs
+    - Broader lessons
+    - Strengths
   summary: We reflect upon what we learned in meeting with partners.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Professional ethics
+  abbrev: professional-ethics
+  summary: We consider some of our repsonsibilities as software professionals.
+  read:
+    - "Don Gotterbarn, Keith Miller, and Simon Rogerson (October 1999). Computer Society and ACM approve Software Engineering Code of Ethics. IEEE Computer 32(10): 84-88. <https://www.computer.org/cms/Computer.org/Publications/code-of-ethics.pdf>"
+    - "Peter G. Neumann (February 2015). Inside Risks: Far-sighted thinking about deleterious computer-related events. CACM 59 (2): 30-33. <http://www.csl.sri.com/users/neumann/cacm235.pdf>"
+    - "ACM Council (October 1992). ACM Code of Ethics and Professional Behavior. <http://www.acm.org/about/code-of-ethics/>"
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: More partner meetings
+  abbrev: partner-meetings-02
+  summary: Time for group work or more partner meetings
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Professional ethics, continued
+  abbrev: ethics-continued
+  summary: We continue our explorations of professional ethics
+  read:
+    - "Arvind Narayaan and Shannon Vallor (March 2014). Why software engineering courses should include ethics coverage. _Communications of the ACM_ 57(3): 23-25.  <http://dl.acm.org/citation.cfm?id=2566966>"
+    - "Neil McBride (August 2012). The ethics of software engineering should be an ethics for the client. _Communications of the ACM_. 55(8): 39-41.  <http://dl.acm.org/citation.cfm?id=2240250>"
+    - "Deborah G. Johnson (October 2008). Computer experts: Guns-for-hire or professionals? _Communications of the ACM_ 51(10): 24-26.  <http://dl.acm.org/citation.cfm?id=1400190>"
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Reports
+  abbrev: reports-week-4
+  summary: Each group will report on their progress
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: More Partner Meetings
+  abbrev: partner-meetings-week-4
+  summary: We meet with partners
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Meet with alumni mentor
+  abbrev: mentor-week-4
+  summary: We chat with an alumni mentor
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Check-ins
+  abbrev: checkins-week-5
+  summary: I will meet with each group individually to see how their work is going.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-5a
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-5b
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Reports
+  abbrev: reports-week-6
+  summary: Teams report on their progress
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-6a
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-6b
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Check-ins
+  abbrev: checkins-week-7
+  summary: I will meet with each group individually to see how their work is going.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-7a
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-7b
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Reports
+  abbrev: reports-week-8
+  summary: Teams report on their progress
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-8a
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-8b
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Check-ins
+  abbrev: checkins-week-9
+  summary: I will meet with each group individually to see how their work is going.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-9a
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-9b
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Reports
+  abbrev: reports-week-10
+  summary: Teams report on their progress
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-10a
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-10b
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Check-ins
+  abbrev: checkins-week-11
+  summary: I will meet with each group individually to see how their work is going.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-11a
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-11b
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Reports
+  abbrev: reports-week-12
+  summary: Teams report on their progress
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-12a
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-12b
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Check-ins
+  abbrev: checkins-week-13
+  summary: I will meet with each group individually to see how their work is going.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-13a
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Work time
+  abbrev: work-time-week-13b
+  summary: Time to do work
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Project Reports
+  abbrev: reports-week-14
+  summary: Teams report on their progress
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Wrapup
+  abbrev: wrapup
+  summary: We discuss the course.  Groups prepare presentations.
 
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
-
-- topic: To be determined
-  abbrev: tbd
-  summary: I have not yet determined what today's class will be about
-  subjects:
-    - Stuff
-    - More stuff
+- topic: Final presentations
+  abbrev: presentations
+  summary: Groups present their work
 

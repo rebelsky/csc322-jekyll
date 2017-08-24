@@ -1,6 +1,6 @@
 ---
 title: Eboard 04  Prepare for partner meetings
-number: 04
+number: 4
 section: eboards
 held: 2017-01-30
 ---

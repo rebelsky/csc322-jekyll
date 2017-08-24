@@ -98,6 +98,8 @@ weighting of individual activities will provide a basis for evaluation.
   <dd>20%</dd>
 </dl>
 
+Because the paper was not assigned, I have scaled each other category to 25%.
+
 Some work may be graded by someone other than the instructor. However, any questions or concerns about grading should only be directed to the instructor.
 
 The grading scale for this course will be:

@@ -1,8 +1,21 @@
 ---
-title: Preliminaries for class 11
-section: prelim
-link: true
+title: Eboard 11  More Partner Meetings
+number: 11
+section: eboards
+held: 2017-02-15
 ---
+CSC 322.01, Class 11:  More Partner Meetings
+============================================
+
+_Overview_
+
+* Preliminaries
+    * Notes and news
+    * Upcoming work
+    * Extra credit
+    * Questions
+* Work time
+
 ### News / Etc.
 
 * Today: Talk to clients, or work on your tasks for the iteration, or ask 
@@ -19,3 +32,8 @@ link: true
 * Swimming and diving this weekend.
 * Orchestra Saturday.
 * Slavic coffee house, Saturday, 5:30-7:00 p.m. Bucksbaum Rotunda.
+
+### Questions
+
+Work time
+---------
