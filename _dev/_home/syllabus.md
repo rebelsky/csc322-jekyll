@@ -83,10 +83,16 @@ weighting of individual activities will provide a basis for evaluation.
   <dd>Penalty only</dd>
   
   <dt>Participation</dt>
-  <dd>20%</dd>
+  <dd>10%</dd>
+
+  <dt>Homework Assignments</dt>
+  <dd>10%</dd>
+
+  <dt>Weekly Project Reports</dt>
+  <dd>10%</dd>
   
   <dt>Presentation</dt>
-  <dd>20%</dd>
+  <dd>10%</dd>
   
   <dt>Project</dt>
   <dd>20%</dd>
@@ -98,9 +104,9 @@ weighting of individual activities will provide a basis for evaluation.
   <dd>20%</dd>
 </dl>
 
-Because the paper was not assigned, I have scaled each other category to 25%.
-
-Some work may be graded by someone other than the instructor. However, any questions or concerns about grading should only be directed to the instructor.
+Some work may be graded by someone other than the instructor. However,
+any questions or concerns about grading should only be directed to
+the instructor.
 
 The grading scale for this course will be:
 
@@ -116,16 +122,36 @@ The grading scale for this course will be:
   <dt>F</dt> <dd>0&ndash;60%</dd>
 </dl>
 
-You may note that there are some gaps between ranges.  I reserve the right to make decisions about which direction to "round" values in those gaps. I also reserve the right to adjust this scale during the semester. You will be notified of any changes, and the scale will not change in the final two weeks of the course. You may ask me for your current grade in the class at any point; I will happily give you my best estimate based on the current scale and graded work so far, but *these estimates are not guarantees of a specific final grade*.
+You may note that there are some gaps between ranges.  I reserve the
+right to make decisions about which direction to "round" values in
+those gaps. I also reserve the right to adjust this scale during the
+semester. You will be notified of any changes, and the scale will not
+change in the final two weeks of the course. You may ask me for your
+current grade in the class at any point; I will happily give you my best
+estimate based on the current scale and graded work so far, but *these
+estimates are not guarantees of a specific final grade*.
 
 Attendance
 ----------
 
-Your classmates and partners depend on your contributions to learn new material and complete the required work for this course. *Don't let them down!* You are expected to arrive on time and actively participate in every class.
+Your classmates and partners depend on your contributions to learn new
+material and complete the required work for this course. *Don't let them
+down!* You are expected to arrive on time and actively participate in
+every class.
 
-Because your participation is so important, I will not grant excused absences except in exceptional circumstances. I will deduct 1% from your final grade for each absence and 0.5% for each time you are late to class. However, each student is allotted a 2% "penalty buffer," so you may miss two classes or arrive late four times with no impact on your final grade.  This policy is intended to give you the flexibility to deal with brief illnesses or personal issues that require you to miss class.
+Because your participation is so important, I will not grant excused
+absences except in exceptional circumstances. I will deduct 1% from your
+final grade for each absence in the first half of the semester, 2% from
+your final grade for each absence in the second half of the semester,
+and 0.5% for each time you are late to class. However, each student is
+allotted a 2% "penalty buffer".  This policy is intended to give you
+the flexibility to deal with brief illnesses or personal issues that
+require you to miss class.
 
-If you need to miss more than two class periods for an exceptional reason (e.g. to attend an academic conference, deal with a family emergency, or due to long-term illness) please talk to me as soon as possible and we will make an alternate arrangement.
+If you need to miss more than two class periods for an exceptional reason
+(e.g. to attend an academic conference, deal with a family emergency,
+or due to long-term illness) please talk to me as soon as possible and
+we will make an alternate arrangement.
 
 If your are sick, *please do not come to class.* Stay in your room, rest, and seek medical care as needed. [Student Health and Counciling Services (SHACS)](http://www.grinnell.edu/about/offices-services/student-health) offers health and mental health services to students.
 
@@ -148,14 +174,17 @@ Students who regularly meet these criteria can expect to earn an A- for their pa
 Academic Honesty
 ----------------
 
-Please read [my policies on academic honesty]({{ site.baseurl }}/handouts/academic-honesty) and [the CS department's academic honesty policy](http://www.cs.grinnell.edu/academic-honesty-policy).  I expect you to sign and return the latter.
+Please read [my policies on academic honesty]({{ site.baseurl
+}}/handouts/academic-honesty) and [the CS department's academic honesty
+policy](http://www.cs.grinnell.edu/academic-honesty-policy).  I expect
+you to sign and return the latter.
 
 Citations
 ---------
 
-Much of this course and the corresponding syllabus were developed using
-Janet Davis's resources.  I think her for her careful development of the
-course and her willingness to allow me to reuse her resources.
+I developed much of this course and the corresponding syllabus using
+Janet Davis's resources.  I think her for her careful development of
+the course and her willingness to allow me to reuse her resources.
 
 Much of the site design comes from Charlie Curtsinger.
 
