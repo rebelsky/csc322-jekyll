@@ -12,29 +12,51 @@
 - topic: Prepare for partner meetings
   abbrev: partner-prep
   summary: We get ready to meet with our community partners.
+  subjects:
+    - Context
+    - Working with real human beings
+    - Q&A
 
 - topic: Project descriptions
   abbrev: project-descriptions
   summary: We examine the primary projects for the semester
   subjects:
-    - Project options
-    - Getting up and running on Rails
-
-- topic: Team building
-  abbrev: team-building
-  summary: The team considers what roles each member will play.
 
 - topic: Approaching projects
   abbrev: approaching-projects
   summary: We consider how teams might approach a sample project.
 
-- topic: Debrief from partner meetings
-  abbrev: partner-debrief
+- topic: Team building
+  abbrev: team-building
+  summary: The team considers what roles each member will play.
+
+- topic: Team building, continued
+  abbrev: team-building-continued
   subjects:
-    - Debriefs
-    - Broader lessons
+    - Project roles
     - Strengths
-  summary: We reflect upon what we learned in meeting with partners.
+    - Other issues
+  summary: We continue to engage in team-building exercises.
+
+- topic: Rethinking OOD (1)
+  abbrev: rethinking-ood-1
+  summary: We consider some core principles of object-oriented design
+  reading: 
+    - /readings/poodr-1
+  subjects:
+    - Big picture
+    - Single responsibility principle
+    - Managing dependencies, internally
+    - Managing dependencies, externally
+
+- topic: Surprise reports
+  abbrev: surprise-reports
+  summary: Your pointy-haired boss asks for something unexpected.
+  reading:
+    - /readings/poodr-2
+  subjects:
+    - Prep time.
+    - Individual group reports
 
 - topic: Rethinking Git and version control
   abbrev: git
@@ -43,35 +65,36 @@
     - Branching
     - Good customs
 
-- topic: Rethinking OOD (1)
-  abbrev: rethinking-ood-1
-
-- topic: Rethinking OOD (2)
-  abbrev: rethinking-ood-2
-
-- topic: Forming an ethical framework
-  abbrev: ethics
-  summary: We consider common ethical frameworks that we can use as we explore our professional ethics.
-
 - topic: Professional ethics
   abbrev: professional-ethics
   summary: We consider some of our repsonsibilities as software professionals.
-  read:
-    - "Don Gotterbarn, Keith Miller, and Simon Rogerson (October 1999). Computer Society and ACM approve Software Engineering Code of Ethics. IEEE Computer 32(10): 84-88. <https://www.computer.org/cms/Computer.org/Publications/code-of-ethics.pdf>"
-    - "Peter G. Neumann (February 2015). Inside Risks: Far-sighted thinking about deleterious computer-related events. CACM 59 (2): 30-33. <http://www.csl.sri.com/users/neumann/cacm235.pdf>"
-    - "ACM Council (October 1992). ACM Code of Ethics and Professional Behavior. <http://www.acm.org/about/code-of-ethics/>"
+  reading:
+    /readings/ethics-1
+  subjects:
+    - Background
+    - Key responsibilities
+    - "Reflection: What responsibilities relate to your project?"
 
 - topic: Professional ethics, continued
   abbrev: ethics-continued
   summary: We continue our explorations of professional ethics
+  reading:
+    /readings/ethics-2
   read:
     - "Arvind Narayaan and Shannon Vallor (March 2014). Why software engineering courses should include ethics coverage. _Communications of the ACM_ 57(3): 23-25.  <http://dl.acm.org/citation.cfm?id=2566966>"
     - "Neil McBride (August 2012). The ethics of software engineering should be an ethics for the client. _Communications of the ACM_. 55(8): 39-41.  <http://dl.acm.org/citation.cfm?id=2240250>"
     - "Deborah G. Johnson (October 2008). Computer experts: Guns-for-hire or professionals? _Communications of the ACM_ 51(10): 24-26.  <http://dl.acm.org/citation.cfm?id=1400190>"
 
-- topic: Professional ethics, concluded
-  abbrev: ethics-concluded
-  summary: We explore take-aways from our explorations of ethics.
+- topic: Project reports
+  abbrev: reports
+  summary: Groups tell us about where theyare
+  subjects:
+    - Prep time
+    - Individual group reports
+
+- topic: Pause for breath
+  abbrev: pause-06
+  summary: We pause for breath before the alumni visits.
 
 - topic: Alumni visits
   abbrev: alumni
@@ -81,19 +104,19 @@
   abbrev: alumni-debrief
   summary: We discuss what we can take away from the alumni visits.
 
-- topic: Check-ins
+- topic: Check-ins + OOD
   abbrev: check-ins-08
   summary: We quickly check in with each group
 
-- topic: Work time
+- topic: Work time + OOD
   abbrev: work-time-08
   summary: Groups work on their projects
 
-- topic: Work time
+- topic: Work time + OOD
   abbrev: work-time-09
   summary: Groups work on their projects
 
-- topic: Reports
+- topic: Reports 
   abbrev: reports-09
   summary: Groups report on their progress
 

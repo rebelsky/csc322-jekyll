@@ -3,7 +3,6 @@ title: Eboard 03  Project descriptions
 number: 03
 section: eboards
 held: 2017-08-31
-current: true
 ---
 CSC 322.01, Class 03:  Project descriptions
 ===========================================

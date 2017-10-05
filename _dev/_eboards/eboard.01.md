@@ -3,7 +3,6 @@ title: Eboard 01  Getting started
 number: 01
 section: eboards
 held: 2017-08-24
-current: true
 ---
 CSC 322.01, Class 01:  Getting started
 ======================================
