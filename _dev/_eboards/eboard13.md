@@ -3,7 +3,6 @@ title: Eboard 13  Pause for breath
 number: 13
 section: eboards
 held: 2017-10-05
-current: true
 ---
 CSC 322.01, Class 13:  Pause for breath
 =======================================

@@ -103,16 +103,20 @@
 - topic: Debrief on alumni visits
   abbrev: alumni-debrief
   summary: We discuss what we can take away from the alumni visits.
+  subjects:
+    - Group reports
 
-- topic: Check-ins + OOD
-  abbrev: check-ins-08
-  summary: We quickly check in with each group
+- topic: Prepare for the second half
+  abbrev: second-half
+  summary: We prepare for the second half of the semester
+    - Second half model
+    - Expectations
 
-- topic: Work time + OOD
+- topic: Work time 
   abbrev: work-time-08
   summary: Groups work on their projects
 
-- topic: Work time + OOD
+- topic: Work time
   abbrev: work-time-09
   summary: Groups work on their projects
 
