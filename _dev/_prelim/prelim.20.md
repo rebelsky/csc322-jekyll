@@ -23,7 +23,7 @@ _Please put your assignments in your planners or equivalent._
     * What do you hope to accomplish in the coming week?
     * What obstacles stand in your way?
     * What resources do you need to help you accomplish your work?
-* For Tuesday: Read Chapter 4 of POODR.  
+* For Thursday: Read Chapter 4 of POODR.  
 
 ### Good things to do
 

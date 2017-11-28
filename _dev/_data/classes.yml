@@ -134,32 +134,48 @@
   subjects:
     - Work time
 
-- topic: Reports 
+- topic: Reports
   abbrev: reports-10
   summary: Groups report on their progress
+  subjects:
+    - About reports
+    - Reports
 
-- topic: Work time
+- topic: Work time (and OOD)
   abbrev: work-time-10
   summary: Groups work on their projects
+  subjects:
+    - Public, private, and in between
+    - Designing flexible interfaces
+    - Work time
 
-- topic: Check-ins
+- topic: Check-ins (and OOD)
   abbrev: check-ins-11
   summary: We quickly check in with each group
+  subjects:
+    - Subtype polymorphism, revisited
+    - Duck typing
+    - Static+explicit vs. dynamic+implicit typing
+    - Check-ins (individual)
+    - Work time
 
-- topic: Work time
+- topic: Work time (and OOD)
   abbrev: work-time-11
   summary: Groups work on their projects
+  subjects:
+    - Review of inheritance
+    - Work time
 
 - topic: Reports
   abbrev: reports-12
   summary: Groups report on their progress
 
-- topic: Check-ins
-  abbrev: check-ins-13
-  summary: We quickly check in with each group
-
 - topic: Work time
   abbrev: work-time-13
+  summary: Groups work on their projects
+
+- topic: Work time
+  abbrev: work-time-13b
   summary: Groups work on their projects
 
 - topic: Reports and Wrapup
