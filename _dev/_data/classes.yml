@@ -169,14 +169,21 @@
 - topic: Reports
   abbrev: reports-12
   summary: Groups report on their progress
+  subjects:
+    - Reports
+    - Work time
 
 - topic: Work time
   abbrev: work-time-13
   summary: Groups work on their projects
+  subjects:
+    - Work time
 
 - topic: Work time
   abbrev: work-time-13b
   summary: Groups work on their projects
+  subjects:
+    - Work time
 
 - topic: Reports and Wrapup
   abbrev: reports-14
