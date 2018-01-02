@@ -121,8 +121,8 @@ At the end of the semester
 3. Since you're about to start a new version of the course, make a branch
    for this old version.
 
-     git checkout -b 2016S
-     git push origin 2016S
+     git checkout -b 2018S
+     git push origin 2018S
 
 Starting a new course
 ---------------------
