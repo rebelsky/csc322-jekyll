@@ -96,7 +96,7 @@ Because your participation is so important, I will not grant excused absences ex
 
 If you need to miss more than two class periods for an exceptional reason (e.g. to attend an academic conference, deal with a family emergency, or due to long-term illness) please talk to me as soon as possible and we will make an alternate arrangement.
 
-If your are sick, *please do not come to class.* Stay in your room, rest, and seek medical care as needed. [Student Health and Counciling Services (SHACS)](http://www.grinnell.edu/about/offices-services/student-health) offers health and mental health services to students.
+If your are sick, *please do not come to class.* Stay in your room, rest, and seek medical care as needed. [Student Health and Counciling Services (SHACS)](https://www.grinnell.edu/about/offices-services/student-health) offers health and mental health services to students.
 
 Participation
 -------------
@@ -117,5 +117,5 @@ Students who regularly meet these criteria can expect to earn an A- for their pa
 Academic Honesty
 ----------------
 
-Please read [my policies on academic honesty]({{ site.baseurl }}/handouts/academic-honesty) and [the CS department's academic honesty policy](http://www.cs.grinnell.edu/academic-honesty-policy).  I expect you to sign and return the latter.
+Please read [my policies on academic honesty]({{ site.baseurl }}/handouts/academic-honesty) and [the CS department's academic honesty policy](https://www.cs.grinnell.edu/academic-honesty-policy).  I expect you to sign and return the latter.
 

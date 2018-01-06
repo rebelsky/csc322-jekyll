@@ -15,7 +15,7 @@ to WAVE on the bottom of each page to as way to remind myself to check.)
 Like the broader Grinnell College community, I am committed to providing
 a site that a broad audience can access, regardless of technology
 or ability.  The College provides a [more detailed statement about these
-issues](http://www.grinnell.edu/accessibility-statement).
+issues](https://www.grinnell.edu/accessibility-statement).
 
 If you would like additional assistance or have
 accessibility concerns, please contact the [Office of
