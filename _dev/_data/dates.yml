@@ -1,74 +1,90 @@
 - week: Week 1
+  anchor: week01
   days:
     - 2018-01-22
     - 2018-01-24
     - 2018-01-26
 - week: Week 2
+  anchor: week02
   days:
     - 2018-01-29
     - 2018-01-31
     - 2018-02-02
 - week: Week 3
+  anchor: week03
   days:
     - 2018-02-05
     - 2018-02-07
     - 2018-02-09
 - week: Week 4
+  anchor: week04
   days:
     - 2018-02-12
     - 2018-02-14
     - 2018-02-16
 - week: Week 5
+  anchor: week05
   days:
     - 2018-02-19
     - 2018-02-21
     - 2018-02-23
 - week: Week 6
+  anchor: week06
   days:
     - 2018-02-26
     - 2018-02-28
     - 2018-03-02
 - week: Week 7
+  anchor: week07
   days:
     - 2018-03-05
     - 2018-03-07
     - 2018-03-09
 - week: Week 8
+  anchor: week08
   days:
     - 2018-03-12
     - 2018-03-14
     - 2018-03-16
 - week: Spring Break
+  anchor: break
 - week: Week 9
+  anchor: week09
   days:
     - 2018-04-02
     - 2018-04-04
     - 2018-04-06
 - week: Week 10
+  anchor: week10
   days:
     - 2018-04-09
     - 2018-04-11
     - 2018-04-13
 - week: Week 11
+  anchor: week11
   days:
     - 2018-04-16
     - 2018-04-18
     - 2018-04-20
 - week: Week 12
+  anchor: week12
   days:
     - 2018-04-23
     - 2018-04-25
     - 2018-04-27
 - week: Week 13
+  anchor: week13
   days:
     - 2018-04-30
     - 2018-05-02
     - 2018-05-04
 - week: Week 14
+  anchor: week14
   days:
     - 2018-05-07
     - 2018-05-09
     - 2018-05-11
 - week: Finals Week
+  anchor: finals
   days:
     - 2018-05-14

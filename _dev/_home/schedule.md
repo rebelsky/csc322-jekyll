@@ -2,14 +2,32 @@
 title: Schedule
 section: home
 ---
-<h1>Schedule</h1>
+# {{ page.title }}
+
+<a href="#schedule" class="sr-only sr-only-focusable">Skip to schedule</a>
+[Week 1](#week01) |
+[Week 2](#week02) |
+[Week 3](#week03) |
+[Week 4](#week04) |
+[Week 5](#week05) |
+[Week 6](#week06) |
+[Week 7](#week07) |
+[Week 8](#week08) |
+[Week 9](#week09) |
+[Week 10](#week10) |
+[Week 11](#week11) |
+[Week 12](#week12) |
+[Week 13](#week13) |
+[Week 14](#week14)
+<a name="schedule"></a>
+
 <table class="table table-condensed table-responsive text-center">
   <tbody style="vertical-align: middle">
     {% assign daynum = 0 %}
     {% for week_data in site.data.dates %}
       {% if week_data.days %}
         <tr class="week-header">
-          <td colspan="8">{{ week_data.week }}</td>
+          <td colspan="8"><a name="{{ week_data.anchor }}"></a>{{ week_data.week }}</td>
         </tr>
         <tr class="column-header">
           <td class="hidden-xs">#</td>
