@@ -1,8 +1,8 @@
 # Site settings
-title: CSC000 2017F
+title: CSC000 2018S
 courseid: CSC 000
-baseurl: /~rebelsky/Courses/CSC000/2017F/
-url: http://www.cs.grinnell.edu/~rebelsky/Courses/CSC000/2017F/master
+baseurl: /~rebelsky/Courses/CSC000/2018S/
+url: https://www.cs.grinnell.edu/~rebelsky/Courses/CSC000/2018S/master
 
 # Collections of things
 collections:
