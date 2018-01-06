@@ -16,12 +16,12 @@ as I'd like.)
 Like the broader Grinnell College community, I am committed to providing
 a site that a broad audience can access, regardless of technology
 or ability.  The College provides a [more detailed statement about these
-issues](http://www.grinnell.edu/accessibility-statement).
+issues](https://www.grinnell.edu/accessibility-statement).
 
 If you would like additional assistance or have
 accessibility concerns about College Web sites, please contact the [Office of
 Communications](mailto:communications@grinnell.edu) at 641-269-3400.
 If you need general accommodations, please contact [our office of
-Disability Resources](http://www.grinnell.edu/about/offices-services/accessibility-disability/disability-services).
+Disability Resources](https://www.grinnell.edu/about/offices-services/accessibility-disability/disability-services).
 If you have particular concerns about my site, please contact me 
 at [rebelsky@grinnell.edu](mailto:rebelsky@grinnell.edu?subject=Accessibility Issue With Web Site).
