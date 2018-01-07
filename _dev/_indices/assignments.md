@@ -16,7 +16,7 @@ We will have assignments almost every week of the semester, except when you have
             <li>Assigned {{ assignment.assigned | date: '%B %-d, %Y' }}</li>
           {% endif %}
           {% if assignment.due %}
-            <li>Due {{ assignment.due | date: '%B %-d, %Y' }}{% if assignment.due-time %} <i>(before {{ assignment.due-time }})</i>{% endif %}</li>
+            <li>Due {{ assignment.due | date: '%B %-d, %Y' }}{% if assignment.due-time %} <i>(before {{ assignment.due-time | split: ' ' | first }})</i>{% endif %}</li>
           {% endif %}
         </ul>
       </dd>
