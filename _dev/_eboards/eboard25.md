@@ -23,7 +23,7 @@ _Overview_
 
 ### Upcoming Work
 
-* No more POODR
+* No more POODR  :-(
 * Regular work on projects.
 
 ### Good things to do

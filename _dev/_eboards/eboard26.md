@@ -3,7 +3,6 @@ title: Eboard 26  Work time
 number: 26
 section: eboards
 held: 2017-11-30
-current: true
 ---
 CSC 322.01, Class 26:  Work time
 ================================

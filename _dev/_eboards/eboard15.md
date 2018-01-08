@@ -3,7 +3,6 @@ title: Eboard 15  Debrief on alumni visits
 number: 15
 section: eboards
 held: 2017-10-12
-current: true
 ---
 CSC 322.01, Class 15:  Debrief on alumni visits
 ===============================================

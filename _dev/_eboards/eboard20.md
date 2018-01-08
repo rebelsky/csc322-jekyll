@@ -3,7 +3,6 @@ title: Eboard 20  Reports
 number: 20
 section: eboards
 held: 2017-11-07
-current: true
 ---
 CSC 322.01, Class 20:  Reports
 ==============================

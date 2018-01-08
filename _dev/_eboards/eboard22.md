@@ -44,10 +44,10 @@ _Please put your assignments in your planners or equivalent._
 
 _Note: I do not do extra credit in two-credit classes._
 
+* CS Table today: Robots
 * Pub-free quiz Wednesday: Math/Stats
 * Convocation Thursday
 * Students of voice recitals Friday at 4:15 and 7:30 p.m.
-* VR club
 
 ### Questions
 
@@ -55,20 +55,54 @@ Subtype polymorphism, revisited
 -------------------------------
 
 * What is subtype polymorphism?
+    * We want to write generic code.
+    * We need to rely on our objects having a certain set of methods
+      (capabilities)
+    * In Java, we use interfaces.  
+    * We can write sort for arrays of anything that implement the
+      Comparable interface.
+    * It's nice for classes to be able to implement multiple interfaces.
 * Why do we use it?
+    * Makes it easier to write generic code.
+    * "Programming for the future"
 
 Duck typing
 -----------
 
 * What is duck typing?
+    * Implicit subtype polymorphism: Any class can choose to implement
+      a set of methods (corresponding to an interface).  If it does,
+      we can use it where we expect the interface.
+    * If it waddles like a duck and quacks like a duck, it's a duck.
 * How does duck typing support subtype polymorphism?
 * What, if any, new things did you find in Metz's presentation?
+    * How to know if you might want subtype polymorphism (ducks).
+      Most frequently, case statements based on type (or variant thereof)
+    * It's not a trivial problem.  Think carefully about what goes
+      in the interface.  What methods naturally go together?
+    * Passing in a "query me for data" object makes it easier to write
+      the interfaces.
+         * Could be a hash
+         * Could be self
 
 Static+explicit vs. dynamic+implicit typing
 -------------------------------------------
 
-* What are the arguments for each?
-* What do you think of Metz's summary?
+* Argument for static typing
+    * You can catch a lot of errors at compile time, particularly if
+      people can't hack around the system.
+    * Compilers can optimize based on their knowledge of types.
+    * Explicit interfaces are nice.  
+        * Give you confidence in your code.
+        * Documents!
+        * Documentation helps control change
+* Arguments for dynamic typing
+    * We don't care about program efficiency; we're not compiling anyway
+      (the program needs to be more adaptable)
+    * Metz says it makes metaprogramming easier (writing programs that
+      write programs)
+    * Easier to adapt dynmically while a program is running
+    * Programmers don't tend to make type mistakes
 
 Check-ins (individual group)
 ----------------------------
