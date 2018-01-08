@@ -2,8 +2,7 @@
 title: Syllabus
 section: home
 ---
-Syllabus
-========
+# {{ page.title }}
 
 Welcome to {{ site.courseid }}! The official course description for this
 class is:
@@ -153,7 +152,7 @@ If you need to miss more than two class periods for an exceptional reason
 or due to long-term illness) please talk to me as soon as possible and
 we will make an alternate arrangement.
 
-If your are sick, *please do not come to class.* Stay in your room, rest, and seek medical care as needed. [Student Health and Counciling Services (SHACS)](http://www.grinnell.edu/about/offices-services/student-health) offers health and mental health services to students.
+If your are sick, *please do not come to class.* Stay in your room, rest, and seek medical care as needed. [Student Health and Counciling Services (SHACS)](https://www.grinnell.edu/about/offices-services/student-health) offers health and mental health services to students.
 
 Participation
 -------------
@@ -187,4 +186,3 @@ Janet Davis's resources.  I think her for her careful development of
 the course and her willingness to allow me to reuse her resources.
 
 Much of the site design comes from Charlie Curtsinger.
-
