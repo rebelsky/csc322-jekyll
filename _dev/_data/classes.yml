@@ -1,193 +1,181 @@
 - topic: Getting started
   abbrev: getting-started
   summary: We explore the basics of the course.
-  subjects: 
-    - Quick course overview
-    - Introductions
-    - Short project descriptions
-    - Course outcomes
-    - More course issues
-    - Questions
-
-- topic: Prepare for partner meetings
-  abbrev: partner-prep
-  summary: We get ready to meet with our community partners.
-  subjects:
-    - Context
-    - Working with real human beings
-    - Q&A
-
-- topic: Project descriptions
-  abbrev: project-descriptions
-  summary: We examine the primary projects for the semester
-  subjects:
 
 - topic: Approaching projects
   abbrev: approaching-projects
   summary: We consider how teams might approach a sample project.
 
-- topic: Team building
-  abbrev: team-building
-  summary: The team considers what roles each member will play.
-
-- topic: Team building, continued
-  abbrev: team-building-continued
+- topic: Project descriptions
+  abbrev: project-descriptions
+  summary: We examine the primary projects for the semester
   subjects:
-    - Project roles
+    - Project options
+    - Getting up and running on Rails
+
+- topic: Prepare for partner meetings
+  abbrev: partner-prep
+  summary: We get ready to meet with our community partners.
+
+- topic: Partner meetings
+  abbrev: partner-meetings
+  summary: We meet with partners.
+
+- topic: Debrief from partner meetings
+  abbrev: partner-debrief
+  subjects:
+    - Debriefs
+    - Broader lessons
     - Strengths
-    - Other issues
-  summary: We continue to engage in team-building exercises.
-
-- topic: Rethinking OOD (1)
-  abbrev: rethinking-ood-1
-  summary: We consider some core principles of object-oriented design
-  reading: 
-    - /readings/poodr-1
-  subjects:
-    - Big picture
-    - Single responsibility principle
-    - Managing dependencies, internally
-    - Managing dependencies, externally
-
-- topic: Surprise reports
-  abbrev: surprise-reports
-  summary: Your pointy-haired boss asks for something unexpected.
-  reading:
-    - /readings/poodr-2
-  subjects:
-    - Prep time.
-    - Individual group reports
-
-- topic: Rethinking Git and version control
-  abbrev: git
-  subjects:
-    - Why have version control?
-    - Branching
-    - Good customs
+  summary: We reflect upon what we learned in meeting with partners.
 
 - topic: Professional ethics
   abbrev: professional-ethics
   summary: We consider some of our repsonsibilities as software professionals.
-  reading:
-    /readings/ethics-1
-  subjects:
-    - Background
-    - Key responsibilities
-    - "Reflection: What responsibilities relate to your project?"
+  read:
+    - "Don Gotterbarn, Keith Miller, and Simon Rogerson (October 1999). Computer Society and ACM approve Software Engineering Code of Ethics. IEEE Computer 32(10): 84-88. <https://www.computer.org/cms/Computer.org/Publications/code-of-ethics.pdf>"
+    - "Peter G. Neumann (February 2015). Inside Risks: Far-sighted thinking about deleterious computer-related events. CACM 59 (2): 30-33. <http://www.csl.sri.com/users/neumann/cacm235.pdf>"
+    - "ACM Council (October 1992). ACM Code of Ethics and Professional Behavior. <http://www.acm.org/about/code-of-ethics/>"
+
+- topic: More partner meetings
+  abbrev: partner-meetings-02
+  summary: Time for group work or more partner meetings
 
 - topic: Professional ethics, continued
   abbrev: ethics-continued
   summary: We continue our explorations of professional ethics
-  reading:
-    /readings/ethics-2
   read:
     - "Arvind Narayaan and Shannon Vallor (March 2014). Why software engineering courses should include ethics coverage. _Communications of the ACM_ 57(3): 23-25.  <http://dl.acm.org/citation.cfm?id=2566966>"
     - "Neil McBride (August 2012). The ethics of software engineering should be an ethics for the client. _Communications of the ACM_. 55(8): 39-41.  <http://dl.acm.org/citation.cfm?id=2240250>"
     - "Deborah G. Johnson (October 2008). Computer experts: Guns-for-hire or professionals? _Communications of the ACM_ 51(10): 24-26.  <http://dl.acm.org/citation.cfm?id=1400190>"
 
-- topic: Project reports
-  abbrev: reports
-  summary: Groups tell us about where theyare
-  subjects:
-    - Prep time
-    - Individual group reports
+- topic: Project Reports
+  abbrev: reports-week-4
+  summary: Each group will report on their progress
 
-- topic: Pause for breath
-  abbrev: pause-06
-  summary: We pause for breath before the alumni visits.
+- topic: More Partner Meetings
+  abbrev: partner-meetings-week-4
+  summary: We meet with partners
 
-- topic: Alumni visits
-  abbrev: alumni
-  summary: Our alumni mentors visit the course.
+- topic: Meet with alumni mentor
+  abbrev: mentor-week-4
+  summary: We chat with an alumni mentor
 
-- topic: Debrief on alumni visits
-  abbrev: alumni-debrief
-  summary: We discuss what we can take away from the alumni visits.
-  subjects:
-    - Group reports
-
-- topic: Prepare for the second half
-  abbrev: second-half
-  summary: We prepare for the second half of the semester
-  subjects:
-    - Second half model
-    - Expectations
-
-- topic: Work time + OOD
-  abbrev: work-time-08
-  summary: Groups work on their projects.  Sam checks in on planning.
-  subjects:
-    - Work time
-
-- topic: Work time + OOD
-  abbrev: work-time-09
-  summary: Groups work on their projects
-  summary: We discuss some important issues.  Groups work on their projects
-  subjects:
-    - An example of good project planning
-    - Managing dependencies
-    - Work time
+- topic: Project Check-ins
+  abbrev: checkins-week-5
+  summary: I will meet with each group individually to see how their work is going.
 
 - topic: Work time
-  abbrev: more-work-time-09
-  summary: Groups work on their projects
-  subjects:
-    - Work time
-
-- topic: Reports
-  abbrev: reports-10
-  summary: Groups report on their progress
-  subjects:
-    - About reports
-    - Reports
-
-- topic: Work time (and OOD)
-  abbrev: work-time-10
-  summary: Groups work on their projects
-  subjects:
-    - Public, private, and in between
-    - Designing flexible interfaces
-    - Work time
-
-- topic: Check-ins (and OOD)
-  abbrev: check-ins-11
-  summary: We quickly check in with each group
-  subjects:
-    - Subtype polymorphism, revisited
-    - Duck typing
-    - Static+explicit vs. dynamic+implicit typing
-    - Check-ins (individual)
-    - Work time
-
-- topic: Work time (and OOD)
-  abbrev: work-time-11
-  summary: Groups work on their projects
-  subjects:
-    - Review of inheritance
-    - Work time
-
-- topic: Reports
-  abbrev: reports-12
-  summary: Groups report on their progress
-  subjects:
-    - Reports
-    - Work time
+  abbrev: work-time-week-5a
+  summary: Time to do work
 
 - topic: Work time
-  abbrev: work-time-13
-  summary: Groups work on their projects
-  subjects:
-    - Work time
+  abbrev: work-time-week-5b
+  summary: Time to do work
+
+- topic: Project Reports
+  abbrev: reports-week-6
+  summary: Teams report on their progress
 
 - topic: Work time
-  abbrev: work-time-13b
-  summary: Groups work on their projects
-  subjects:
-    - Work time
+  abbrev: work-time-week-6a
+  summary: Time to do work
 
-- topic: Reports and Wrapup
-  abbrev: reports-14
-  summary: Groups report on their progress.  We discuss the course.  Groups prepare presentations.
+- topic: Work time
+  abbrev: work-time-week-6b
+  summary: Time to do work
+
+- topic: Project Check-ins
+  abbrev: checkins-week-7
+  summary: I will meet with each group individually to see how their work is going.
+
+- topic: Work time
+  abbrev: work-time-week-7a
+  summary: Time to do work
+
+- topic: Work time
+  abbrev: work-time-week-7b
+  summary: Time to do work
+
+- topic: Project Reports
+  abbrev: reports-week-8
+  summary: Teams report on their progress
+
+- topic: Work time
+  abbrev: work-time-week-8a
+  summary: Time to do work
+
+- topic: Work time
+  abbrev: work-time-week-8b
+  summary: Time to do work
+
+- topic: Project Check-ins
+  abbrev: checkins-week-9
+  summary: I will meet with each group individually to see how their work is going.
+
+- topic: Work time
+  abbrev: work-time-week-9a
+  summary: Time to do work
+
+- topic: Work time
+  abbrev: work-time-week-9b
+  summary: Time to do work
+
+- topic: Project Reports
+  abbrev: reports-week-10
+  summary: Teams report on their progress
+
+- topic: Work time
+  abbrev: work-time-week-10a
+  summary: Time to do work
+
+- topic: Work time
+  abbrev: work-time-week-10b
+  summary: Time to do work
+
+- topic: Project Check-ins
+  abbrev: checkins-week-11
+  summary: I will meet with each group individually to see how their work is going.
+
+- topic: Work time
+  abbrev: work-time-week-11a
+  summary: Time to do work
+
+- topic: Work time
+  abbrev: work-time-week-11b
+  summary: Time to do work
+
+- topic: Project Reports
+  abbrev: reports-week-12
+  summary: Teams report on their progress
+
+- topic: Work time
+  abbrev: work-time-week-12a
+  summary: Time to do work
+
+- topic: Work time
+  abbrev: work-time-week-12b
+  summary: Time to do work
+
+- topic: Project Check-ins
+  abbrev: checkins-week-13
+  summary: I will meet with each group individually to see how their work is going.
+
+- topic: Work time
+  abbrev: work-time-week-13a
+  summary: Time to do work
+
+- topic: Work time
+  abbrev: work-time-week-13b
+  summary: Time to do work
+
+- topic: Project Reports
+  abbrev: reports-week-14
+  summary: Teams report on their progress
+
+- topic: Wrapup
+  abbrev: wrapup
+  summary: We discuss the course.  Groups prepare presentations.
 
 - topic: Final presentations
   abbrev: presentations

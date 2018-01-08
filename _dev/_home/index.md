@@ -33,7 +33,7 @@ to change significantly.**
 
 ## About this course
 
-Welcome to the Fall 2017 section of Grinnell College's CSC 322, *Team
+Welcome to the Spring 2018 section of Grinnell College's CSC 322, *Team
 Software Development for Community Organizations*.  CSC 322 is an
 opportunity for you to apply the ideas and tools you learned in CSC 321
 and elsewhere in our curriculum to real-world problems.  In particular,
