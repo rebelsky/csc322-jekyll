@@ -1,6 +1,7 @@
 # Site settings
 title: CSC000 2018S
 courseid: CSC 000
+semester: 2018S
 baseurl: /~rebelsky/Courses/CSC000/2018S/
 url: https://www.cs.grinnell.edu/~rebelsky/Courses/CSC000/2018S/master
 
