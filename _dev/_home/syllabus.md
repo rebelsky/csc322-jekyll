@@ -109,22 +109,25 @@ weighting of individual activities will provide a basis for evaluation.
   <dd>Penalty only</dd>
   
   <dt>Participation</dt>
+  <dd>5%</dd>
+
+  <dt>Reading journals and homework assignments</dt>
   <dd>10%</dd>
 
-  <dt>Homework Assignments</dt>
-  <dd>10%</dd>
-
-  <dt>Weekly Project Reports</dt>
+  <dt>Weekly individual and group reports</dt>
   <dd>10%</dd>
   
-  <dt>Presentation</dt>
+  <dt>Weekly presentations</td>
+  <dd>10%</dd>
+
+  <dt>Public presentation</dt>
   <dd>10%</dd>
   
   <dt>Project</dt>
   <dd>20%</dd>
   
   <dt>Portfolio</dt>
-  <dd>20%</dd>
+  <dd>15%</dd>
   
   <dt>Paper</dt>
   <dd>20%</dd>
@@ -197,13 +200,20 @@ Participating in class involves:
 
 Students who regularly meet these criteria can expect to earn an A- for their participation grade. I will reward students who regularly provide significant insights or guide discussion in productive ways with a higher participation score. Students who fail to participate regularly (e.g., demonstrating a lack of preparation or involvement during lab exercises) or who participate in counterproductive ways (e.g., by dominating the conversation, making inappropriate comments, or getting off-task) can expect to earn a lower score.
 
-Academic Honesty
+Academic honesty
 ----------------
 
 Please read [my policies on academic honesty]({{ site.baseurl
 }}/handouts/academic-honesty) and [the CS department's academic honesty
 policy](http://www.cs.grinnell.edu/academic-honesty-policy).  I expect
 you to sign and return the latter.
+
+Extra credit
+------------
+
+Although I regularly offer extra credit in my four-credit courses, I do
+not offer extra credit in two-credit courses.  Nonetheless, I will still
+recommend academic, artistic, cultural, and peer events on campus.
 
 Citations
 ---------
@@ -212,4 +222,4 @@ I developed much of this course and the corresponding syllabus using
 Janet Davis's resources.  I think her for her careful development of
 the course and her willingness to allow me to reuse her resources.
 
-Much of the site design comes from Charlie Curtsinger.
+Much of the original site design comes from Charlie Curtsinger.
