@@ -2,17 +2,6 @@
   abbrev: getting-started
   summary: We explore the basics of the course.
 
-- topic: Approaching projects
-  abbrev: approaching-projects
-  summary: We consider how teams might approach a sample project.
-
-- topic: Project descriptions
-  abbrev: project-descriptions
-  summary: We examine the primary projects for the semester
-  subjects:
-    - Project options
-    - Getting up and running on Rails
-
 - topic: Prepare for partner meetings
   abbrev: partner-prep
   summary: We get ready to meet with our community partners.
@@ -20,6 +9,7 @@
 - topic: Partner meetings
   abbrev: partner-meetings
   summary: We meet with partners.
+
 
 - topic: Debrief from partner meetings
   abbrev: partner-debrief
@@ -29,6 +19,62 @@
     - Strengths
   summary: We reflect upon what we learned in meeting with partners.
 
+- topic: Initial team meetings
+  abbrev: first-team-meeting
+  summary: Teams meet.
+
+- topic: Team building
+  abbrev: team-building
+  summary: We continue team building, including the task of assigning roles.
+
+
+- topic: Start of first sprint
+  abbrev: first-sprint
+  summary: We begin our first sprint with sprint-planning presentations.
+
+- topic: Work time
+  abbrev: work-time-03
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
+
+- topic: Rethinking Git and version control
+  abbrev: rethinking-git
+  summary: We consider the appropriate ways to use Git in a project of this size and scope.
+
+
+- topic: Rethinking object-oriented design (1)
+  abbrev: rethinking-ood-01
+  summary: We begin to explore different ways of looking at object-oriented design.
+
+- topic: Meet with alumni mentor
+  abbrev: alumni-mentors
+  summary: Groups meet in person with their alumni mentors
+
+- topic: Work time
+  abbrev: work-time-04
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
+
+
+- topic: Start of second sprint / Presentations
+  abbrev: second-sprint
+  summary: We begin our second sprint.
+
+- topic: Work time
+  abbrev: work-time-05a
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
+
+- topic: Work time
+  abbrev: work-time-05b
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
+
+
+- topic: Demo day / Check ins
+  abbrev: demo-06
+  summary: Groups give the first demonstrations of their projects.
+
+- topic: Work time
+  abbrev: work-time-06
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
+
 - topic: Professional ethics
   abbrev: professional-ethics
   summary: We consider some of our repsonsibilities as software professionals.
@@ -37,9 +83,13 @@
     - "Peter G. Neumann (February 2015). Inside Risks: Far-sighted thinking about deleterious computer-related events. CACM 59 (2): 30-33. <http://www.csl.sri.com/users/neumann/cacm235.pdf>"
     - "ACM Council (October 1992). ACM Code of Ethics and Professional Behavior. <http://www.acm.org/about/code-of-ethics/>"
 
-- topic: More partner meetings
-  abbrev: partner-meetings-02
-  summary: Time for group work or more partner meetings
+- topic: Start of third sprint / Presentations
+  abbrev: third-sprint
+  summary: We begin our third sprint.
+
+- topic: Work time
+  abbrev: work-time-07
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
 
 - topic: Professional ethics, continued
   abbrev: ethics-continued
@@ -49,129 +99,81 @@
     - "Neil McBride (August 2012). The ethics of software engineering should be an ethics for the client. _Communications of the ACM_. 55(8): 39-41.  <http://dl.acm.org/citation.cfm?id=2240250>"
     - "Deborah G. Johnson (October 2008). Computer experts: Guns-for-hire or professionals? _Communications of the ACM_ 51(10): 24-26.  <http://dl.acm.org/citation.cfm?id=1400190>"
 
-- topic: Project Reports
-  abbrev: reports-week-4
-  summary: Each group will report on their progress
-
-- topic: More Partner Meetings
-  abbrev: partner-meetings-week-4
-  summary: We meet with partners
-
-- topic: Meet with alumni mentor
-  abbrev: mentor-week-4
-  summary: We chat with an alumni mentor
-
-- topic: Project Check-ins
-  abbrev: checkins-week-5
-  summary: I will meet with each group individually to see how their work is going.
+- topic: Demo day / Check ins
+  abbrev: demo-08
+  summary: Groups give the first demonstrations of their projects.  (Two-hour classes start, too.)
 
 - topic: Work time
-  abbrev: work-time-week-5a
-  summary: Time to do work
+  abbrev: work-time-08
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
+
+- topic: Professional ethics, concluded
+  abbrev: professional-ethics
+  summary: We conclude our discussion of professional ethics.
+
+- topic: Start of fourth sprint / Presentations
+  abbrev: fourth-sprint
+  summary: We begin our fourth sprint.
 
 - topic: Work time
-  abbrev: work-time-week-5b
-  summary: Time to do work
+  abbrev: work-time-09
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
 
-- topic: Project Reports
-  abbrev: reports-week-6
-  summary: Teams report on their progress
+- topic: Rethinking object-oriented design (2)
+  abbrev: rethinking-ood-02
+  summary: We consider the singler-responsibility principle.
 
-- topic: Work time
-  abbrev: work-time-week-6a
-  summary: Time to do work
-
-- topic: Work time
-  abbrev: work-time-week-6b
-  summary: Time to do work
-
-- topic: Project Check-ins
-  abbrev: checkins-week-7
-  summary: I will meet with each group individually to see how their work is going.
+- topic: Demo day / Check ins
+  abbrev: demo-10
+  summary: Groups give the first demonstrations of their projects.
 
 - topic: Work time
-  abbrev: work-time-week-7a
-  summary: Time to do work
+  abbrev: work-time-10
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
+
+- topic: Rethinking object-oriented design (3)
+  abbrev: rethinking-ood-03
+  summary: We consider mechanisms for managing dependencies.
+
+- topic: Start of fifth sprint / Presentations
+  abbrev: fifth-sprint
+  summary: We begin our fifth sprint.
 
 - topic: Work time
-  abbrev: work-time-week-7b
-  summary: Time to do work
+  abbrev: work-time-11
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
 
-- topic: Project Reports
-  abbrev: reports-week-8
-  summary: Teams report on their progress
+- topic: Rethinking object-oriented design (4)
+  abbrev: rethinking-ood-04
+  summary: We explore ways to create flexible interfaces.
 
-- topic: Work time
-  abbrev: work-time-week-8a
-  summary: Time to do work
-
-- topic: Work time
-  abbrev: work-time-week-8b
-  summary: Time to do work
-
-- topic: Project Check-ins
-  abbrev: checkins-week-9
-  summary: I will meet with each group individually to see how their work is going.
+- topic: Demo day / Check ins
+  abbrev: demo-12
+  summary: Groups give the first demonstrations of their projects.
 
 - topic: Work time
-  abbrev: work-time-week-9a
-  summary: Time to do work
+  abbrev: work-time-12
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
+
+- topic: Rethinking object-oriented design (5)
+  abbrev: rethinking-ood-05
+  summary: We revisit Ruby's Duck Typing.
+
+- topic: Start of final sprint / Presentations
+  abbrev: final-sprint
+  summary: We begin our final, abbreviated, sprint.
 
 - topic: Work time
-  abbrev: work-time-week-9b
-  summary: Time to do work
+  abbrev: work-time-13
+  summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
 
-- topic: Project Reports
-  abbrev: reports-week-10
-  summary: Teams report on their progress
+- topic: Rethinking object-oriented design (6)
+  abbrev: rethinking-ood-06
+  summary: We explore the power of inheritance.
 
-- topic: Work time
-  abbrev: work-time-week-10a
-  summary: Time to do work
-
-- topic: Work time
-  abbrev: work-time-week-10b
-  summary: Time to do work
-
-- topic: Project Check-ins
-  abbrev: checkins-week-11
-  summary: I will meet with each group individually to see how their work is going.
-
-- topic: Work time
-  abbrev: work-time-week-11a
-  summary: Time to do work
-
-- topic: Work time
-  abbrev: work-time-week-11b
-  summary: Time to do work
-
-- topic: Project Reports
-  abbrev: reports-week-12
-  summary: Teams report on their progress
-
-- topic: Work time
-  abbrev: work-time-week-12a
-  summary: Time to do work
-
-- topic: Work time
-  abbrev: work-time-week-12b
-  summary: Time to do work
-
-- topic: Project Check-ins
-  abbrev: checkins-week-13
-  summary: I will meet with each group individually to see how their work is going.
-
-- topic: Work time
-  abbrev: work-time-week-13a
-  summary: Time to do work
-
-- topic: Work time
-  abbrev: work-time-week-13b
-  summary: Time to do work
-
-- topic: Project Reports
-  abbrev: reports-week-14
-  summary: Teams report on their progress
+- topic: End of last sprint
+  abbrev: last-sprint
+  summary: We conclude the final, abbreviated, sprint.
 
 - topic: Wrapup
   abbrev: wrapup
@@ -179,5 +181,5 @@
 
 - topic: Final presentations
   abbrev: presentations
-  summary: Groups present their work
+  summary: Groups present their work to their community partners, department faculty, and any interested visitors.
 
