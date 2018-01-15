@@ -54,6 +54,9 @@ collections:
     permalink: /reference/:path.html
   related:
     output: false
+  reports:
+    output: true
+    permalink: /reports/:path.html
   writeups:
     output: true
     permalink: /writeups/:path.html
