@@ -1,16 +1,16 @@
 ---
 title: Reading
-subtitle: Practical object-oriented design in ruby (ch. 1)
+subtitle: Practical object-oriented design in ruby (ch. 3)
 link: false
-schedule: 2018-02-09
-due: 2018-02-08
+schedule: 2018-04-13
+due: 2018-04-12
 due-time: 8:00pm Thursday
 ---
 # {{ page.title }}: {{ page.subtitle }}
 
 {% include due.md %}
 
-Read Chapter 1 of _Practical Object-Oriented Design in Ruby_.  
+Read Chapter 3 of _Practical Object-Oriented Design in Ruby_.  
 
 {% include journal.md %}
 
