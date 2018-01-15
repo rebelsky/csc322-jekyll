@@ -195,7 +195,7 @@ attend class.
 
 I realize that some disabilities may require you to miss class.  Ideally,
 these requirements are documented in your accommodations form.  But I
-will do my best ot make adjustments and accommodations in all cases.
+will do my best to make adjustments and accommodations in all cases.
 
 If your are sick, *please do not come to class.*  I
 would prefer that you reset and get better.  Please seek
