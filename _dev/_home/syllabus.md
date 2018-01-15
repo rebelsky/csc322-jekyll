@@ -120,7 +120,7 @@ attend class.
 
 I realize that some disabilities may require you to miss class.  Ideally,
 these requirements are documented in your accommodations form.  But I
-will do my best ot make adjustments and accommodations in all cases.
+will do my best to make adjustments and accommodations in all cases.
 
 If you need to miss more than two class periods for an exceptional reason
 (e.g. to attend an academic conference, deal with a family emergency,
