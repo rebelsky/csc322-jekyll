@@ -48,7 +48,7 @@ a large-scale, real-world project.
 Accommodations and adjustments
 ------------------------------
 
-Please read [my policy on accommodations and adjustments]({{ site.baseurl }}/handouts/accommodations) and [my statement on accessiblity]({{ site.baseurl }}/handouts/accessibility).
+Please read [my policy on accommodations and adjustments]({{ site.baseurl }}/handouts/accommodations) and [my statement on accessibility]({{ site.baseurl }}/handouts/accessibility).
 
 Weekly structure and workload
 -----------------------------
@@ -143,10 +143,10 @@ The grading scale for this course will be:
   <dt>A</dt> <dd>94&ndash;100%</dd>
   <dt>A-</dt><dd>90&ndash;93%</dd>
   <dt>B+</dt><dd>87&ndash;89%</dd>
-  <dt>B</dt> <dd>84&ndash;87%</dd>
+  <dt>B</dt> <dd>84&ndash;86%</dd>
   <dt>B-</dt><dd>80&ndash;83%</dd>
   <dt>C+</dt><dd>77&ndash;79%</dd>
-  <dt>C</dt> <dd>74&ndash;77%</dd>
+  <dt>C</dt> <dd>74&ndash;76%</dd>
   <dt>D</dt> <dd>60&ndash;69%</dd>
   <dt>F</dt> <dd>0&ndash;60%</dd>
 </dl>
@@ -165,24 +165,47 @@ Attendance
 
 Your classmates and partners depend on your contributions to learn new
 material and complete the required work for this course. *Don't let them
-down!* You are expected to arrive on time and actively participate in
+down!* I expect you to arrive on time and actively participate in
 every class.
 
 Because your participation is so important, I will not grant excused
-absences except in exceptional circumstances. I will deduct 1% from your
-final grade for each absence in the first half of the semester, 2% from
-your final grade for each absence in the second half of the semester,
-and 0.5% for each time you are late to class. However, each student is
-allotted a 2% "penalty buffer".  This policy is intended to give you
-the flexibility to deal with brief illnesses or personal issues that
-require you to miss class.
+absences except in particular and exceptional circumstances. I will
+deduct 2% from your final grade for each absence in the first half of
+the semester, 4% from our final grade for each absence in the seocnd
+half of the semester, and 1% for each time you are between five and
+fifteen minutes late to class. These deductions are doubled if you do
+not send me a short note on the day of the absence or late attendance,
+preferably in advance (e.g., "I will be unable to make it to class today"
+or "I apologize for missing class today" or "Another instructor has asked
+that I meet with them immediately after class; I expect that I'll be
+about ten minutes late.")  I allot each student a 4% "penalty buffer,"
+so you may miss two classes (if you send notes), miss one class (if
+you fail to send a note), or arrive late four times (if you send notes)
+with no impact on your final grade.  This policy is intended to give you
+the flexibility to deal with or personal or other issues (including job
+interviews) that require you to miss class.
 
-If you need to miss more than two class periods for an exceptional reason
-(e.g. to attend an academic conference, deal with a family emergency,
-or due to long-term illness) please talk to me as soon as possible and
-we will make an alternate arrangement.
+I realize that there are a number of reasonable and expected absences.
+These include athletic events, academic conferences, course trips,
+and religious observations.  Such absences do not count as unexecused
+absences provided you notify me of them at least one week in advance.
 
-If your are sick, *please do not come to class.* Stay in your room, rest, and seek medical care as needed. [Student Health and Counciling Services (SHACS)](https://www.grinnell.edu/about/offices-services/student-health) offers health and mental health services to students.
+If you are ill, I would prefer that you rest and get better rather than
+attend class.  
+
+I realize that some disabilities may require you to miss class.  Ideally,
+these requirements are documented in your accommodations form.  But I
+will do my best ot make adjustments and accommodations in all cases.
+
+If your are sick, *please do not come to class.*  I
+would prefer that you reset and get better.  Please seek
+medical care as needed. [Student Health and Counseling Services
+(SHACS)](https://www.grinnell.edu/about/offices-services/student-health)
+offers health and mental health services to students.  I excuse illness
+provided you notify me the day of class, preferably in advance of class.
+I do not require a note from SHACS or your doctor.  Note, however, if
+you are ill more than a few times, I may discuss the issue with student
+affairs and may stop excusing illness-based absences.
 
 Participation
 -------------
