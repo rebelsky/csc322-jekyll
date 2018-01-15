@@ -1,8 +1,18 @@
 ---
-title: Practical Object-Oriented Design in Ruby (ch. 4--9)
-section: readings
+title: Reading
+subtitle: Practical object-oriented design in ruby (ch. 2)
+link: false
+schedule: 2018-04-06
+due: 2018-04-05
+due-time: 8:00pm
 ---
-# Reading: {{ page.title }}
+# {{ page.title }}: {{ page.subtitle }}
 
-Read Chapters 4--9 of _Practical Object-Oriented Design in Ruby_.  Be
-prepared to discuss the examples.
+{% include due.md %}
+
+Read Chapter 2 of _Practical Object-Oriented Design in Ruby_.  You may
+find that you also want to review Chapter 1 for context.
+
+{% include journal.md %}
+
+_Questions forthcoming_.
