@@ -77,10 +77,10 @@ The grading scale for this course will be:
   <dt>A</dt> <dd>94&ndash;100%</dd>
   <dt>A-</dt><dd>90&ndash;93%</dd>
   <dt>B+</dt><dd>87&ndash;89%</dd>
-  <dt>B</dt> <dd>84&ndash;87%</dd>
+  <dt>B</dt> <dd>84&ndash;86%</dd>
   <dt>B-</dt><dd>80&ndash;83%</dd>
   <dt>C+</dt><dd>77&ndash;79%</dd>
-  <dt>C</dt> <dd>74&ndash;77%</dd>
+  <dt>C</dt> <dd>74&ndash;76%</dd>
   <dt>D</dt> <dd>60&ndash;69%</dd>
   <dt>F</dt> <dd>0&ndash;60%</dd>
 </dl>
