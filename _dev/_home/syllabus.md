@@ -19,7 +19,7 @@ software lifecycle.
 That is, this course serves as the *practicum* for our software design
 curriculum.
 
-Course Goals and Structure
+Course goals and structure
 --------------------------
 
 In this course, you will apply agile software development principles and
@@ -41,16 +41,43 @@ professional skills and perspectives.
 
 This course is a companion to CSC 321, Software Development Principles
 and Practices. In CSC 321, you will learn how to apply agile software
-methodology to developing software as a service (SaaS) using the Ruby on
-Rails framework. In this course, you will apply what you learned to a
-large-scale, real-world project. If you take CSC 322 concurrently with
-CSC 321, you will find that topics are introduced in CSC 321 just in
-time to apply them in CSC 322.
+methodology to developing software as a service (SaaS) using the Ruby
+on Rails framework. In this course, you will apply what you learned to
+a large-scale, real-world project.
 
 Accommodations and adjustments
 ------------------------------
 
 Please read [my policy on accommodations and adjustments]({{ site.baseurl }}/handouts/accommodations) and [my statement on accessiblity]({{ site.baseurl }}/handouts/accessibility).
+
+Weekly structure and workload
+-----------------------------
+
+After a two-week period in which we set up the context of the projects, the 
+course is structured in a sequence of two-seek sprints.  The in-class time
+for each sprint is generally organized as follows.  (In the second half
+of the semester, the second hour of class will be work time.)
+
+* Monday: *Presentations*.  Groups present on some aspect of their project.
+    * First week: *Sprint retrospective and planning*.  Each group gives
+      a short report on the past sprint and their plans for the current
+      sprint.
+    * Second week: *Demos and check-ins*.  Each group gives a short
+      demo of some aspect of the current state of the system.  I do a
+      mid-sprint check-in with each group.
+* Wednesday: *Work time*.  Teams may work on the project, meet
+  with their community partners, meet with their alumni mentors, get help
+  from the instructor or mentor, or any combination thereof.
+* Friday: *Discussion*.  We will discuss some topic related
+  to the course.  The primary themes for Fridays are computer ethics and
+  object-oriented design.
+
+The course meets three hours per week for the first half of the semester
+and six hours per week for the second half of the semester.  You should
+plan on about two hours of out-of-class work each week.  Grinnell's
+[semester credit definition](https://grinco.sharepoint.com/sites/Registrar/Shared%20Documents/semester%20credit%20definition%20RESOLUTION.pdf) indicates
+that a two-credit course should require a minimum of 90 hours of work.
+seven weeks of five hours and seven weeks of eight hours is 91 hours.
 
 Important Warnings
 ------------------
