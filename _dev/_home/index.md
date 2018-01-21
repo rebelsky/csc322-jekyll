@@ -36,3 +36,6 @@ to change significantly.**
 Welcome to {{ site.courseid }}, Sam's generic course.
 
 Some text about the course.
+
+Read more about the course in [the syllabus](../home/syllabus) and [the schedule](../home/schedule).
+
