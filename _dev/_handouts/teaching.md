@@ -39,7 +39,10 @@ How do I try to support this learning?  In a number of ways.
 I *assign readings* to give you a basis for understanding the subject
 matter.  Sometimes these readings will be from the textbook, sometimes
 I will distribute appropriate supplements, sometimes I will write the
-readings myself.
+readings myself.  In upper level classes, I tend to assign "reading
+journals" that are due the night before class.  The reading journals
+provide me with an opportunity to identify difficulties and to better
+plan class.
 
 I recommend that you "read actively".  That is, when you're reading
 about new ideas in Scheme, you should try some of them out to see if
