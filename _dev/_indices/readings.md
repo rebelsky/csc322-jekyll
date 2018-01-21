@@ -2,30 +2,28 @@
 title: Readings
 permalink: /readings/
 ---
-# Readings
-The following readings are required, and should be completed before class on the date listed.
+# {{ page.title }}
 
-<dl class="dl-horizontal">
-  {% assign daynum = 0 %}
-  {% for week in site.data.dates %}
-    {% for day in week.days %}
-      {% assign class = site.data.classes[daynum] %}
-      {% if class.reading %}
-        <dt>{{ day | date: '%B %-d, %Y' }}</dt>
+The following readings are required, and should be completed at 8:00pm on
+the evening before class on the date listed.
+
+<dl>
+  {% assign readings = site.readings | sort: 'due' %}
+  {% for reading in readings %}
+    {% if reading.link %}
+      {% if reading.due %}
+        <dt>{% include schedule_item.html item=reading show-due-time=false show-subtitle=true %}</dt>
         <dd>
-          <ul class='list-unstyled'>
-            {% for item in class.reading %}
-              {% assign reading = site.documents | where: "url", item | first %}
-              {% if reading %}
-                <li>{% include schedule_item.html item=reading show-due-time=false %}</li>
-              {% else %}
-                <li>{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-              {% endif %}
-            {% endfor %}
+          <ul class="list-inline">
+            {% if reading.assigned %}
+              <li>Assigned {{ reading.assigned | date: '%A, %-d %B %Y' }}</li>
+            {% endif %}
+            {% if reading.due %}
+              <li>Due {{ reading.due | date: '%A, %-d %B %Y' }}{% if reading.due-time %} <i>(before {{ reading.due-time | split: ' ' | first }})</i>{% endif %}</li>
+            {% endif %}
           </ul>
         </dd>
       {% endif %}
-      {% assign daynum = daynum | plus: 1 %}
-    {% endfor %}
+    {% endif %}
   {% endfor %}
 </dl>
