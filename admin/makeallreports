@@ -1,5 +1,0 @@
-#!/bin/bash
-
-SLEEP=$1
-
-./makereport "Rebelsky, Samuel" rebelsky $SLEEP
