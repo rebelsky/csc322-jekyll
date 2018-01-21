@@ -3,8 +3,7 @@ title: On teaching and learning
 summary: Perspectives on how Sam supports your learning
 section: handouts
 ---
-On teaching and learning
-========================
+# {{ page.title }}
 
 Introduction
 ------------

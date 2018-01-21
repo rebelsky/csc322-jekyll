@@ -2,8 +2,7 @@
 title: Thoughts about electronic mail
 section: handouts
 ---
-Thoughts about electronic mail
-==============================
+# {{ page.title }} 
 
 *I end up talking to students about email more than they or I would like.
 Here are a few quick notes about ways in which I use (and do not use) email.*

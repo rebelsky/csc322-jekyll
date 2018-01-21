@@ -2,8 +2,7 @@
 title: Grading
 section: handouts
 ----
-Additional Information on Grading Policies
-==========================================
+# {{ page.title }}
 
 <emphasis role="strong">Summary:* The <ulink
 url="../home/">course front door</ulink> provides a quick
