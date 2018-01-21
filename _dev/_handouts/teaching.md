@@ -78,33 +78,16 @@ students need some work on their presentation skills, and I consider it
 my responsibility to help students develop those skills.  Most often,
 presentations will be of papers that you've read.
 
-**In general, I expect you to spend about eight to ten hours per week on
-this class outside of class time.** If you find that you are spending more
-than that, let me know and I'll try to reduce the workload or help you
-use your time better.  If you find that you are spending significantly
-less than that, please come chat with me, too.  I won't give you more
-work (unless you want more work), but it may be that you are missing
-some key issues.
+**In CSC 322, I expect you to spend about two hours per week on
+this class outside of class time.** 
 
-I *grade assignments* to help you identify some areas for improvement.
-Note that I believe that you learn more from doing an assignment than
-from receiving a grade on that assignment.  This means that you may not
-receive a grade or comments on all or even a majority of your assignments.
-I will do my best to tell you when an assignment won't be graded, but
-not until after you hand it in.  I will do my best to be prompt about
-returning grades on assignments.  At times, I will use a grader to help
-speed the process.
-
-I *give examinations* because I find that many students only attempt
-to master a concept when preparing for an exam.  Because I care more
-about processes and concepts than about facts, I almost always give
-open-book examinations.  Because I do not feel that time limits are
-helpful, I primarily give take-home exams.
-
-I *give quizzes* to ensure that you are doing the reading and that you
-are understanding what I expect you to understand from the readings
-and assignments.  At times, I will give quizzes to help illustrate a
-particular point.
+I *grade assignments* to encourage you to turn in work and to help
+you identify some areas for improvement.  Note that I believe that you
+learn more from doing an assignment than from receiving a grade on that
+assignment.  This means that you may not receive a grade or comments on
+all or even a majority of your assignments.  I will do my best to tell you
+when an assignment won't be graded, but not until after you hand it in.
+I will do my best to be prompt about returning grades on assignments.
 
 I *build course webs* to organize my thoughts, to give you a resource for
 learning, and to help those of you who need to work on your note-taking
@@ -130,16 +113,8 @@ Grading
 
 At the same time that you learn and I try to help you learn, Grinnell
 and the larger community expect me to assign a grade to your work
-in the class.  I base grades on a number of components, but primarily
-on *assignments*, *examinations*, and *involvement in classroom
-discussions*.
-
-Because I understand that not everyone gets everything right the
-first time, I will occasionally allow you to *substitute* an extra
-assignment for one that you did poorly on.  I will often drop one
-assignment grade.  Unfortunately, the time pressures of the semester
-are significant enough that I will not be able to permit you to
-make up assignments except through these mechanisms.
+in the class.  I base grades on a number of components which are
+detailed on [the course syllabus](../home/syllabus).
 
 In computer science, it is often possible to do the same problem
 in multiple ways.  Hence, I typically reserve class days to discuss
