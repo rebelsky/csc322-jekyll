@@ -1,7 +1,7 @@
 ---
 title: Reading
 subtitle: Practical object-oriented design in ruby (ch. 3)
-link: false
+link: true
 schedule: 2018-04-13
 due: 2018-04-12
 due-time: 8:00pm Thursday

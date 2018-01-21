@@ -1,7 +1,7 @@
 ---
 title: Reading
 subtitle: Professional ethics
-link: false
+link: true
 schedule: 2018-03-02
 due: 2018-03-01
 due-time: 8:00pm Thursday
