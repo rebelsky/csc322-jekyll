@@ -4,7 +4,7 @@ section: handouts
 ---
 # {{ page.title }}
 
-There are four primary mechanisms for doing CSC 151 work remotely.
+There are four primary mechanisms for doing CS work remotely.
 
 1. You can run a [virtual machine](../reference/virtual-machine.html) 
    on your laptop.  A virtual machine is a simulated computer - it's
