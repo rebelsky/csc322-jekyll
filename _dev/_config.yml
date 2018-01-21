@@ -62,7 +62,9 @@ collections:
     output: true
     permalink: /writeups/:path.html
 
-# Directories to skip
+# Directories and files to skip
+exclude:
+  - Makefile
 
 # Default layouts
 defaults:

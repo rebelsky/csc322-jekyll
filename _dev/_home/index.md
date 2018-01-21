@@ -3,9 +3,6 @@ title: CSC 322 - Team-Based Software Development for Community Organizations
 ---
 # {{ site.title }}
 
-**Warning!  The class site is currently under development.  Expect things
-to change significantly.**
-
   <dl class="dl-horizontal">
     <dt>Instructor</dt>
     <dd>
@@ -43,12 +40,14 @@ of projects.
 
 Past history suggests that because most students are learning Rails
 and Ruby during the first half of the semester, the course ends up
-somewhat back focused.  To address that issue, we will be having two
+somewhat back focused.  To address that issue, we will be having three
 one-hour meetings each week for the first half of the semester, and
-two three-hour meetings each week for the second half of the semester.
+tree two-hour meetings each week for the second half of the semester.
 This approach gives you the opportunity to "ramp up" in how you work on
 the material.  In the second half of the semester, almost all of your
 work for the class happens during class time.
 
 Past experience suggests that what you get out of the course depends
 on what you put into the course.
+
+Read more about the course in [the syllabus](../home/syllabus) and [the schedule](../home/schedule).
