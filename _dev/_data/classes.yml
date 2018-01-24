@@ -5,19 +5,30 @@
 - topic: Prepare for partner meetings
   abbrev: partner-prep
   summary: We get ready to meet with our community partners.
+  subjects:
+    - Context
+    - Working with real human beings
+    - Q&A
 
 - topic: Partner meetings
   abbrev: partner-meetings
   summary: We meet with partners.
-
+  subjects:
+    - Quick introduction
+    - Project 1
+    - Project 2
+    - Project 3
+    - Debrief
 
 - topic: Debrief from partner meetings
   abbrev: partner-debrief
-  subjects:
-    - Debriefs
-    - Broader lessons
-    - Strengths
   summary: We reflect upon what we learned in meeting with partners.
+  subjects:
+    - Quick introduction
+    - Project 4
+    - Project 5
+    - Project 6
+    - Debrief
 
 - topic: Initial team meetings
   abbrev: first-team-meeting
