@@ -3,7 +3,6 @@ title: Eboard 02  Prepare for partner meetings
 number: 02
 section: eboards
 held: 2018-01-24
-current: true
 ---
 CSC 322.01, Class 02:  Prepare for partner meetings
 ===================================================
