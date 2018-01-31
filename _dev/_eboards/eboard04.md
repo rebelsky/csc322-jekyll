@@ -4,7 +4,6 @@ number: 04
 section: eboards
 held: 2018-01-29
 link: true
-current: true
 ---
 CSC 322.01, Class 04: More partner introductions
 ================================================

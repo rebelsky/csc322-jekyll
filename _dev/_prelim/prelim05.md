@@ -1,15 +1,14 @@
 ---
-title: Preliminaries for class 04
+title: Preliminaries for class 05
 section: prelim
 link: true
 ---
 ### Notes and news
 
-* Good job on Wednesday and Friday last week.  You impressed SS.
-
 ### Upcoming work
 
-* PRINT six copies of your résumé and bring them to class on Wednesday.
+* [Identify strengths and roles](../assignments/role) due Thursday
+  at 8:00pm.
 
 ### Good things to do: Academic
 
