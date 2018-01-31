@@ -33,11 +33,19 @@
 - topic: Initial team meetings
   abbrev: first-team-meeting
   summary: Teams meet.
+  subjects:
+    - Quick introductions
+    - Team résumé reviews
+    - Group debrief
 
 - topic: Team building
   abbrev: team-building
   summary: We continue team building, including the task of assigning roles.
-
+  subjects:
+    - Background on strengths themes 
+    - Project roles
+    - Team discussions
+    - Group report-in
 
 - topic: Start of first sprint
   abbrev: first-sprint
