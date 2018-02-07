@@ -55,14 +55,14 @@
   abbrev: work-time-03
   summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
 
-- topic: Rethinking Git and version control
-  abbrev: rethinking-git
-  summary: We consider the appropriate ways to use Git in a project of this size and scope.
-
-
 - topic: Rethinking object-oriented design (1)
   abbrev: rethinking-ood-01
   summary: We begin to explore different ways of looking at object-oriented design.
+
+
+- topic: Design thinking
+  abbrev: design-thinking
+  summary: We explore the basics of design thinking.
 
 - topic: Meet with alumni mentor
   abbrev: alumni-mentors
