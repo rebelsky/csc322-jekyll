@@ -5,15 +5,30 @@ link: true
 schedule: 2018-03-02
 due: 2018-03-01
 due-time: 8:00pm Thursday
+current: true
 ---
 # {{ page.title }}: {{ page.subtitle }}
 
 Read the following.
 
-- Don Gotterbarn, Keith Miller, and Simon Rogerson (October 1999). Computer Society and ACM approve Software Engineering Code of Ethics. IEEE Computer 32(10): 84-88. <https://www.computer.org/cms/Computer.org/Publications/code-of-ethics.pdf>
-- Peter G. Neumann (February 2015). Inside Risks: Far-sighted thinking about deleterious computer-related events. CACM 59 (2): 30-33. <http://www.csl.sri.com/users/neumann/cacm235.pdf>
-- ACM Council (October 1992). ACM Code of Ethics and Professional Behavior. <http://www.acm.org/about/code-of-ethics/>
+* Wikipedia articles on following ethical models
+    * Social contract: <https://en.wikipedia.org/wiki/Social_contract>
+    * Deontology: <https://en.wikipedia.org/wiki/Deontological_ethics>
+    * Consequentialism: <https://en.wikipedia.org/wiki/Consequentialism>
+    * Utilitarianism: <https://en.wikipedia.org/wiki/Utilitarianism>
+    * Virtue ethics: <https://en.wikipedia.org/wiki/Virtue_ethics>
+    * Justice as fairness: <https://en.wikipedia.org/wiki/A_Theory_of_Justice>
+* Code 2018 Task Force. 2018. _2018 ACM Code of Ethics
+and Professional Conduct: Draft 3_.  Available online at
+<https://ethics.acm.org/2018-code-draft-3/>.
 
 {% include journal.md %}
 
-_Questions forthcoming._
+1. We would not need so many ethical models if any one of them was perfect.
+Identify a (reasonable) potential flaw in each model.  (The flaw may be from
+the perspective of a follower of the other models.)
+
+2. Which model or models seem best suited to our work as computer scientists?
+Why?
+
+3. What most surprised you about the Draft ACM Code of Ethics?  Why?

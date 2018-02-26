@@ -10,9 +10,9 @@ due-time: 8:00pm Thursday
 
 Read and be prepared to discuss the following.
 
-- Arvind Narayaan and Shannon Vallor (March 2014). Why software engineering courses should include ethics coverage. _Communications of the ACM_ 57(3): 23-25.  <http://dl.acm.org/citation.cfm?id=2566966>
-- Neil McBride (August 2012). The ethics of software engineering should be an ethics for the client. _Communications of the ACM_. 55(8): 39-41.  <http://dl.acm.org/citation.cfm?id=2240250>
-- Deborah G. Johnson (October 2008). Computer experts: Guns-for-hire or professionals? _Communications of the ACM_ 51(10): 24-26.  <http://dl.acm.org/citation.cfm?id=1400190>
+- Don Gotterbarn, Keith Miller, and Simon Rogerson (October 1999). Computer Society and ACM approve Software Engineering Code of Ethics. _IEEE Computer_ 32(10): 84-88. <https://www.computer.org/cms/Computer.org/Publications/code-of-ethics.pdf>
+- Peter G. Neumann (February 2015). Inside Risks: Far-sighted thinking about deleterious computer-related events. _Commun. ACM_ 59 (2): 30-33. <http://www.csl.sri.com/users/neumann/cacm235.pdf>
+- Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, and Marty J. Wolf. 2017. ACM code of ethics: a guide for positive action. _Commun. ACM_ 61, 1 (December 2017), 121-128. DOI: <https://doi.org/10.1145/3173016  >
 
 {% include journal.md %}
 
