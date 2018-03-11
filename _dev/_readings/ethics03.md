@@ -2,9 +2,9 @@
 title: Readings
 subtitle: Professional ethics, concluded
 link: true
-schedule: 2018-03-16
-due: 2018-03-15
-due-time: 8:00pm Thursday
+schedule: 2018-03-12
+due: 2018-03-11
+due-time: 10:00pm Sunday
 ---
 # {{ page.title }}: {{ page.subtitle }}
 
@@ -16,4 +16,9 @@ Read and be prepared to discuss the following.
 
 {% include journal.md %}
 
-_Questions forthcoming._
+1. Where in our curriculum do you think coverage of ethics belongs?  Why?
+
+2. McBride claims that we have primary responsibility to our client.
+What particularly responsibilities to your CSC 322 client to you see as
+most important?
+
