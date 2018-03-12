@@ -5,7 +5,6 @@ link: true
 schedule: 2018-03-02
 due: 2018-03-01
 due-time: 8:00pm Thursday
-current: true
 ---
 # {{ page.title }}: {{ page.subtitle }}
 
@@ -19,8 +18,8 @@ Read the following.
     * Virtue ethics: <https://en.wikipedia.org/wiki/Virtue_ethics>
     * Justice as fairness: <https://en.wikipedia.org/wiki/A_Theory_of_Justice>
 * Code 2018 Task Force. 2018. _2018 ACM Code of Ethics
-and Professional Conduct: Draft 3_.  Available online at
-<https://ethics.acm.org/2018-code-draft-3/>.
+  and Professional Conduct: Draft 3_.  Available online at 
+  <https://ethics.acm.org/2018-code-draft-3/>.
 
 {% include journal.md %}
 

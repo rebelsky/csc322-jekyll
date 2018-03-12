@@ -4,7 +4,6 @@ number: 07
 section: eboards
 held: 2018-02-05
 link: true
-current: true
 ---
 CSC 322.01, Class 07:  Start of first sprint
 ============================================

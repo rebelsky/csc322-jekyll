@@ -117,18 +117,23 @@
     - "Arvind Narayaan and Shannon Vallor (March 2014). Why software engineering courses should include ethics coverage. _Communications of the ACM_ 57(3): 23-25.  <http://dl.acm.org/citation.cfm?id=2566966>"
     - "Neil McBride (August 2012). The ethics of software engineering should be an ethics for the client. _Communications of the ACM_. 55(8): 39-41.  <http://dl.acm.org/citation.cfm?id=2240250>"
     - "Deborah G. Johnson (October 2008). Computer experts: Guns-for-hire or professionals? _Communications of the ACM_ 51(10): 24-26.  <http://dl.acm.org/citation.cfm?id=1400190>"
+  subjects:
+    - Ethics case study, part one
 
-- topic: Demo day / Check ins
+- topic: Demo day / Profession ethics, concluded
   abbrev: demo-08
-  summary: Groups give the first demonstrations of their projects.  (Two-hour classes start, too.)
+  summary: Groups give the first demonstrations of their projects.  We conclude our discussion of professional ethics.  (Two-hour classes start, too.)
+  subjects:
+    - Demos
+    - Ethics case study, part two
 
 - topic: Work time
   abbrev: work-time-08
   summary: Time to work on your project, meet with your partners, meet with your mentors, or some combination thereof.
 
-- topic: Professional ethics, concluded
-  abbrev: professional-ethics
-  summary: We conclude our discussion of professional ethics.
+- topic: Work time
+  abbrev: work-time-08b
+  summary: Time to work on your project, meet with your partners, meet with your mentors, leave early for spring break, or some combination thereof.
 
 - topic: Start of fourth sprint / Presentations
   abbrev: fourth-sprint

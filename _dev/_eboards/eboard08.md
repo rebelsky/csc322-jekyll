@@ -4,7 +4,6 @@ number: 8
 section: eboards
 held: 2018-02-07
 link: true
-current: true
 ---
 CSC 322.01, Class 08:  Work time
 ================================
@@ -14,7 +13,7 @@ _Overview_
 * Preliminaries
     * Notes and news
     * Upcoming work
-    * Good thigns to do
+    * Good things to do
     * Questions
 * Work time
 
