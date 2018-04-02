@@ -4,7 +4,6 @@ number: 22
 section: eboards
 held: 2018-03-11
 link: true
-current: true
 ---
 CSC 322.01, Class 22:  Demo day / Profession ethics, concluded
 ==============================================================
@@ -14,9 +13,13 @@ _Overview_
 * Preliminaries
     * Notes and news
     * Upcoming work
-    * Extra credit
     * Questions
 * Demos
+    * Callisto
+    * Local Foods
+    * Heartland
+    * PALS
+    * Mayflower
 * Ethics case study, part two
 * Additional discussion of ethics in the CS curriculum (if time)
 
@@ -25,43 +28,86 @@ Preliminaries
 
 ### News / Etc.
 
-* Mentor sessions will be Tue 8-9 and Thu 7-9.
+* Mentor sessions will be Tue 7-8 and Thu 7-9.
     * We will reassess after break.
-* Don't forget that we've rearranged the schedule
+* I'll need help bringing food down for the CS extra in 1023.
 
 ### Upcoming work
 
-* [Even more readings on professional ethics](../readings/ethics03) due 
-  Sunday at 9:00 pm.
-* Reports Today at 5:00 p.m.
-* Demos next Monday.
 * Paper: Write your own case study, based on a real case.
 
 ### Good things to do (Academic/Artistic)
 
-* CS Extra on Monday!  4:15 In Science 1023.  For in that room at 4:00.
+* CS Extra Today!  4:15 In Science 1023.  Food in that room at 4:00.
 * CS Table on Tuesday!
 
 ### Good things to do (Peer)
 
 ### Good things to do (Misc)
 
-* Play on campus.
-* High school is doing Little Mermaid.
-
-### Friday PSA
-
-* Take care of yourselves.
-* Remember that it's daylight savings time.
-* Consent is necessary.  Don't damage someone else.
-
 ### Questions
 
-Demos
------
+Callisto
+--------
+
+* Demo, part one: Look, we want to look like *this other site*.
+* Demo, part two: Look, we have a stack.  We don't have choices, but
+  we do have a stack.
+    * The stack doesn't get cleared where it has to.
+
+Questions
+
+* Do you preserve answers?
+    * Yes.  They are there.
+    * But, um, they don't show up again.  We'll look at that?
+* What about the text fields?
+    * They should work.  We don't have any in the demo site.
+    * You will lose the text if you choose a separate path.  (That's
+      a great test case.)
+
+Local Foods
+-----------
+
+* Demo: Can now add "Operations" and have them work sensibly.
+    * Doesn't seem to work with the front end.
+    * Issues with duplicate entries to be addressed.
+* Demo: When you enter a farm name, brings us to that farm.
+    * Wouldn't it be nicer to see approximate matches?
+* Note: Need more realistic seed data.
+* Icons?  Still playing with it.
+
+Heartland
+---------
+
+* Demo: Some front-end work.  Added Grinnell.  Added better directory.
+    * Does not save.
+* Demo: Send email.  (Nope; simulate.)
+    * Sam needs to talk to the group about this upload/download database thing.
+
+PALS
+----
+
+* UI Mockups
+* Reports on volunteers and donors
+    * Who was there?
+* Goal: Printed version
+
+Mayflower
+---------
+
+* Better appearance.  Yay!
+* Working on where to put the search results.
+* Higlights in site menu bar
+* Need to look at search results
+* Search start/middle/end suggested
 
 Ethics case study, review
 -------------------------
+
+_The situation: You work for an ISP.  One of your clients provides
+"bulletproof hosting" (but don't bother to define what that is).  One of
+their clients is a White Supremacist Group.  People are clamoring for
+you to remove them._
 
 _Many of you have been using the ACM code of ethics in terms of how
 your clients' client is using technology that we provide, but did not
@@ -78,22 +124,76 @@ group and decide how you would approach the problem through the lens of
 that ethical theory.  (Yes, I realize that you may have to go back and
 review that ethical theory.)_
 
-Social contract: NA, FA, CB, MB
+Social contract: Group Q: NA, FA, CB, MB
 
-Deontology: EB, GC, WSC, MD
+* We give up freedoms in exchange for rules/security.
+* So those WS folks should be giving up their freedom of speech in order
+  to provide better security for others.
+* Block traffic (either to the service provider or to the WS group).
+* Advocation of violence breaks the social contract.
 
-Consequentialism: HF, SG, MG, PT
+Deontology: Group 7: EB, GC, WSC, MD
 
-Utilitarianism: JRL, PM, ArM, SM
+* Following the rules is important.  But what are the rules we're following?
+* Doing nothing doesn't break any laws.
+* Their actions are not breaking any laws.
+* Some countries do have laws against racist sites; the US doesn't.
+* What does our contract with the data provider suggest?
 
-Virtue ethics: JM, AdM, DN, LP
+Consequentialism: Group Banana: HF, SG, MG, BH
 
-Justice as fairness: LP, JS, RS, JZ
+* "The ends justify the means".  What's the end we care about?
+* Non-violence (or safety of individuals) trumps questionable behavior.
+* Threaten the content provider: Drop them or we'll tell drop you.
+
+Utilitarianism: Group Pi: PK, JRL, PM, SM
+
+* Our goal is to maximize happiness (or something else).
+* Maybe some kind of mediation between our company, the content provider,
+  and the WS?
+
+Virtue ethics: Group Phi: JM, AdM, DN, LP
+
+* Live a life with "good morals": Honesty, generosity, ...
+* So you'll naturally make the right decision.
+* Tell WS group: Please don't cause violence.  It's wrong.
+* Be rightously indignacious.
+* It's hard.  We could argue for both sides.
+    * Where is "Freedom of Speech" on your value chart?
+
+Justice as fairness: Group -3: ArM, JS, RS, JZ
+
+* Each person should have liberties as long as they don't interfere
+  with other's liberties.
+* Resources equally availble to all.
+* Also: Focus on the least advantaged.
+* Conclusion: Get rid of the site.
 
 ### Primary options: Effects on stakeholders
 
-_With your group, decide on the likely effects of each of the two major
+_With your group, decide on the likely effects of some of the two major
 decisions (do nothing / ban the client) on each of the major stakeholders._
+
+Stakeholders
+
+Who are the stakeholders?  (Some actors plus others affected by whatever
+decision you make.)
+
+* Oppressed people
+* White supremacists
+* The bulletproof hosting service
+* Our other clients / content providers
+* Politicians and others of that ilk
+* General public
+* The company
+* Shareholders
+
+Options
+
+* Status quo (Q, 7, Banana)
+* Drop client (Q, 7, Banana)
+* Tell client: Drop white supremacy group or else (Pi, Phi, -3)
+* Filter traffic (Pi, Phi, -3)
 
 ### Grounding the case
 
