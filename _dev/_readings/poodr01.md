@@ -4,7 +4,8 @@ subtitle: Practical object-oriented design in ruby (ch. 1)
 link: true
 schedule: 2018-02-09
 due: 2018-02-08
-due-time: 8:00pm Thursday
+due-time: 9:00pm Thursday
+current: true
 ---
 # {{ page.title }}: {{ page.subtitle }}
 
