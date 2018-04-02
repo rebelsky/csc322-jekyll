@@ -10,7 +10,7 @@ Current reading
   document.location = "{{ site.baseurl }}{{ current.url }}";
 </script>
 <p>
-  Our current lab is 
+  Our current reading is 
   <a href="{{ site.baseurl }}{{ current.url }}">{{ current.title }}</a>.
 </p>
 {% else %}
