@@ -4,7 +4,6 @@ number: 24
 section: eboards
 held: 2018-03-16
 link: true
-current: true
 ---
 CSC 322.01, Class 24:  Work time
 ================================
@@ -14,7 +13,7 @@ _Overview_
 * Preliminaries
     * Notes and news
     * Upcoming work
-    * Extra credit
+    * Good things to do
     * Friday PSA
     * Questions
 * Work time

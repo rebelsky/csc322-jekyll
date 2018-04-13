@@ -150,6 +150,9 @@
 - topic: Demo day / Check ins
   abbrev: demo-10
   summary: Groups give the first demonstrations of their projects.
+  subjects:
+    - Demos
+    - Work time
 
 - topic: Work time
   abbrev: work-time-10
